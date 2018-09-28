@@ -1,0 +1,10 @@
+109 124 pick up the right yellow block
+157 172 pick up the right red block
+157 172 pick up the rightmost block
+157 172 pick up the rightmost block which color is red
+157 172 pick up the rightmost red block
+38 183 pick up the left red block
+38 183 pick up the leftmost red block
+38 183 pick up the lower left block
+58 124 pick up the left yellow block
+58 124 pick up the upper left block

@@ -1,0 +1,45 @@
+122 78 pick up the block between the red block and the yellow block
+122 78 pick up the block between the yellow block and the red block
+122 78 pick up the blue block
+122 78 pick up the blue block between the red block and the yellow block
+122 78 pick up the blue block between the yellow block and the red block
+122 78 pick up the upper blue block
+122 78 pick up the upper middle block
+197 102 pick up the right block which color is yellow
+197 102 pick up the right yellow block
+197 102 pick up the yellow block
+197 102 pick up the yellow block on the right
+213 187 pick up the block at the bottom right
+213 187 pick up the block at the lower right corner
+213 187 pick up the block on the rightmost bottom
+213 187 pick up the bottom block which color is purple
+213 187 pick up the bottom purple block
+213 187 pick up the bottom right block
+213 187 pick up the bottom right block which color is purple
+213 187 pick up the bottom right purple block
+213 187 pick up the lower block which color is purple
+213 187 pick up the lower purple block
+213 187 pick up the lower right block which color is purple
+213 187 pick up the lower right purple block
+213 187 pick up the purple block
+213 187 pick up the purple block at the bottom
+213 187 pick up the purple block at the bottom right
+213 187 pick up the purple block at the lower right corner
+213 187 pick up the purple block on the lower right
+213 187 pick up the purple block on the right
+213 187 pick up the purple block on the rightmost bottom
+213 187 pick up the right block which color is purple
+213 187 pick up the right purple block
+33 127 pick up the green block on the left
+33 127 pick up the left green block
+40 68 pick up the red block
+40 68 pick up the red block at the upper left corner
+40 68 pick up the red block on the upper left
+40 68 pick up the top block which color is red
+40 68 pick up the top red block
+40 68 pick up the upper block which color is red
+40 68 pick up the upper left block which color is red
+40 68 pick up the upper left red block
+40 68 pick up the upper red block
+82 148 pick up the green block on the right
+82 148 pick up the right green block

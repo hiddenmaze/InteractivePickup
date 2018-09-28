@@ -1,0 +1,13 @@
+211,109,pick up the block on the right,purple,upper
+213,167,pick up the block on the right,green,lower
+211,110,pick up the right block,purple,upper
+213,167,pick up the right block,green,lower
+210,109,pick up the rightmost block,purple,upper
+213,167,pick up the rightmost block,green,lower
+50,75,pick up the upper block,red,left
+134,84,pick up the upper block,yellow,middle
+210,110,pick up the upper block,purple,right
+83,194,pick up the purple block,purple,lowerleft lower left
+211,110,pick up the purple block,purple,upperright upper right
+83,194,pick up the block which color is purple,purple,lowerleft lower left
+212,110,pick up the block which color is purple,purple,upperright upper right

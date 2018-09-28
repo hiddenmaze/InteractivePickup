@@ -1,0 +1,57 @@
+113 185 pick up the block just next to the red block
+113 185 pick up the block next to the red block
+113 185 pick up the lower yellow block
+113 185 pick up the yellow block
+113 185 pick up the yellow block just next to the red block
+113 185 pick up the yellow block next to the red block
+158 51 pick up the purple block at the top
+158 51 pick up the purple block at the top right
+158 51 pick up the purple block on the right
+158 51 pick up the purple block on the rightmost top
+158 51 pick up the right block which color is purple
+158 51 pick up the right purple block
+158 51 pick up the rightmost block
+158 51 pick up the rightmost block which color is purple
+158 51 pick up the rightmost purple block
+158 51 pick up the top block which color is purple
+158 51 pick up the top purple block
+158 51 pick up the top right block which color is purple
+158 51 pick up the top right purple block
+158 51 pick up the upper block which color is purple
+158 51 pick up the upper purple block
+158 51 pick up the upper right purple block
+32 156 pick up the left block which color is purple
+32 156 pick up the left purple block
+32 156 pick up the lower left purple block
+32 156 pick up the purple block on the left
+45 76 pick up the green block
+45 76 pick up the green block on the upper left
+45 76 pick up the upper block which color is green
+45 76 pick up the upper green block
+45 76 pick up the upper left block which color is green
+45 76 pick up the upper left green block
+76 194 pick up the bottom block which color is red
+76 194 pick up the bottom red block
+76 194 pick up the left block which color is red
+76 194 pick up the left red block
+76 194 pick up the lower block which color is red
+76 194 pick up the lower left block which color is red
+76 194 pick up the lower left red block
+76 194 pick up the lower red block
+76 194 pick up the red block
+76 194 pick up the red block at the bottom
+76 194 pick up the red block on the left
+76 194 pick up the red block on the lower left
+89 138 pick up the block among other blocks
+89 138 pick up the block among others
+89 138 pick up the block between other blocks
+89 138 pick up the block between others
+89 138 pick up the block in the middle which color is blue
+89 138 pick up the blue block
+89 138 pick up the blue block among other blocks
+89 138 pick up the blue block among others
+89 138 pick up the blue block between other blocks
+89 138 pick up the blue block between others
+89 138 pick up the blue block in the middle
+89 138 pick up the middle block which color is blue
+89 138 pick up the middle blue block

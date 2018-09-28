@@ -1,0 +1,49 @@
+133 86 pick up the top block which color is yellow
+133 86 pick up the top yellow block
+133 86 pick up the upper block which color is yellow
+133 86 pick up the upper yellow block
+133 86 pick up the yellow block
+133 86 pick up the yellow block at the top
+155 163 pick up the block among other blocks
+155 163 pick up the block among others
+155 163 pick up the block between other blocks
+155 163 pick up the block between others
+155 163 pick up the blue block
+155 163 pick up the blue block among other blocks
+155 163 pick up the blue block among others
+155 163 pick up the blue block between other blocks
+155 163 pick up the blue block between others
+209 110 pick up the purple block on the right
+209 110 pick up the right block which color is purple
+209 110 pick up the right purple block
+209 110 pick up the upper right purple block
+221 176 pick up the bottom block which color is red
+221 176 pick up the bottom red block
+221 176 pick up the lower block which color is red
+221 176 pick up the lower red block
+221 176 pick up the lower right block which color is red
+221 176 pick up the lower right red block
+221 176 pick up the red block
+221 176 pick up the red block on the lower right
+221 176 pick up the red block on the right
+221 176 pick up the right block which color is red
+221 176 pick up the right red block
+48 145 pick up the green block
+48 145 pick up the green block on the left
+48 145 pick up the left block which color is green
+48 145 pick up the left green block
+48 145 pick up the leftmost block
+48 145 pick up the leftmost block which color is green
+48 145 pick up the leftmost green block
+79 189 pick up the bottom block which color is purple
+79 189 pick up the bottom purple block
+79 189 pick up the left block which color is purple
+79 189 pick up the left purple block
+79 189 pick up the lower block which color is purple
+79 189 pick up the lower left block which color is purple
+79 189 pick up the lower left purple block
+79 189 pick up the lower purple block
+79 189 pick up the purple block at the bottom
+79 189 pick up the purple block at the lower left corner
+79 189 pick up the purple block on the left
+79 189 pick up the purple block on the lower left

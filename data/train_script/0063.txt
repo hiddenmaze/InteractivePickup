@@ -1,0 +1,58 @@
+194 85 pick up the right block which color is yellow
+194 85 pick up the right yellow block
+194 85 pick up the yellow block
+194 85 pick up the yellow block on the right
+229 168 pick up the block on the lower right
+229 168 pick up the blue block
+229 168 pick up the blue block on the lower right
+229 168 pick up the blue block on the right
+229 168 pick up the bottom block which color is blue
+229 168 pick up the bottom blue block
+229 168 pick up the lower block which color is blue
+229 168 pick up the lower blue block
+229 168 pick up the lower right block
+229 168 pick up the lower right block which color is blue
+229 168 pick up the lower right blue block
+229 168 pick up the right block which color is blue
+229 168 pick up the right blue block
+229 168 pick up the rightmost block which color is blue
+229 168 pick up the rightmost blue block
+40 62 pick up the block at the top left
+40 62 pick up the block at the upper left corner
+40 62 pick up the block on the leftmost top
+40 62 pick up the block on the upper left
+40 62 pick up the left block which color is red
+40 62 pick up the left red block
+40 62 pick up the red block
+40 62 pick up the red block at the top
+40 62 pick up the red block at the top left
+40 62 pick up the red block at the upper left corner
+40 62 pick up the red block on the left
+40 62 pick up the red block on the leftmost top
+40 62 pick up the red block on the upper left
+40 62 pick up the top block which color is red
+40 62 pick up the top left block
+40 62 pick up the top left block which color is red
+40 62 pick up the top left red block
+40 62 pick up the top red block
+40 62 pick up the upper block which color is red
+40 62 pick up the upper left block
+40 62 pick up the upper left block which color is red
+40 62 pick up the upper left red block
+40 62 pick up the upper red block
+50 187 pick up the block at the lower left corner
+50 187 pick up the block on the lower left
+50 187 pick up the bottom block which color is green
+50 187 pick up the bottom green block
+50 187 pick up the green block
+50 187 pick up the green block at the bottom
+50 187 pick up the green block at the lower left corner
+50 187 pick up the green block on the left
+50 187 pick up the green block on the lower left
+50 187 pick up the left block which color is green
+50 187 pick up the left green block
+50 187 pick up the lower block which color is green
+50 187 pick up the lower green block
+50 187 pick up the lower left block
+50 187 pick up the lower left block which color is green
+50 187 pick up the lower left green block

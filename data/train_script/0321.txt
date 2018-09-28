@@ -1,0 +1,61 @@
+116 78 pick up the block between purple blocks
+116 78 pick up the block between two purple blocks
+116 78 pick up the green block between purple blocks
+116 78 pick up the green block between two purple blocks
+116 78 pick up the green block on the upper left
+116 78 pick up the left green block
+116 78 pick up the upper green block
+116 78 pick up the upper left green block
+201 50 pick up the block at the upper right corner
+201 50 pick up the block on the upper right
+201 50 pick up the purple block at the top
+201 50 pick up the purple block at the upper right corner
+201 50 pick up the purple block on the upper right
+201 50 pick up the top block which color is purple
+201 50 pick up the top purple block
+201 50 pick up the upper block which color is purple
+201 50 pick up the upper purple block
+201 50 pick up the upper right block
+201 50 pick up the upper right block which color is purple
+201 50 pick up the upper right purple block
+205 196 pick up the block at the bottom right
+205 196 pick up the block at the lower right corner
+205 196 pick up the block on the lower right
+205 196 pick up the block on the rightmost bottom
+205 196 pick up the bottom block which color is green
+205 196 pick up the bottom green block
+205 196 pick up the bottom right block
+205 196 pick up the bottom right block which color is green
+205 196 pick up the bottom right green block
+205 196 pick up the green block at the bottom
+205 196 pick up the green block at the bottom right
+205 196 pick up the green block at the lower right corner
+205 196 pick up the green block on the lower right
+205 196 pick up the green block on the right
+205 196 pick up the green block on the rightmost bottom
+205 196 pick up the lower block which color is green
+205 196 pick up the lower green block
+205 196 pick up the lower right block
+205 196 pick up the lower right block which color is green
+205 196 pick up the lower right green block
+205 196 pick up the right block which color is green
+205 196 pick up the right green block
+52 189 pick up the block at the lower left corner
+52 189 pick up the block on the left
+52 189 pick up the block on the lower left
+52 189 pick up the bottom block which color is purple
+52 189 pick up the bottom purple block
+52 189 pick up the left block
+52 189 pick up the left block which color is purple
+52 189 pick up the left purple block
+52 189 pick up the leftmost block
+52 189 pick up the leftmost block which color is purple
+52 189 pick up the leftmost purple block
+52 189 pick up the lower block which color is purple
+52 189 pick up the lower left block
+52 189 pick up the lower left block which color is purple
+52 189 pick up the lower left purple block
+52 189 pick up the lower purple block
+52 189 pick up the purple block at the lower left corner
+52 189 pick up the purple block on the left
+52 189 pick up the purple block on the lower left

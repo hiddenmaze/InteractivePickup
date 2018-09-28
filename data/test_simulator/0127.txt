@@ -1,0 +1,13 @@
+73,76,pick up the block which color is green,green,upperleft upper left
+204,192,pick up the block which color is green,green,lowerright lower right
+31,37,pick up the block at the top,purple,left
+209,37,pick up the block at the top,yellow,right
+33,36,pick up the top block,purple,left
+209,37,pick up the top block,yellow,right
+73,76,pick up the green block,green,upperleft upper left
+206,191,pick up the green block,green,lowerright lower right
+31,38,pick up the upper block,purple,left
+73,76,pick up the upper block,green,left middle
+208,36,pick up the upper block,yellow,right
+173,128,pick up the block near the center,blue,middle
+113,168,pick up the block near the center,red,middle

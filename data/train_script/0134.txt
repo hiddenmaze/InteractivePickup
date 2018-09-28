@@ -1,0 +1,49 @@
+162 180 pick up the block at the bottom
+162 180 pick up the bottom block
+162 180 pick up the bottom block which color is green
+162 180 pick up the bottom green block
+162 180 pick up the green block at the bottom
+162 180 pick up the lower block which color is green
+162 180 pick up the lower green block
+174 99 pick up the upper green block
+208 37 pick up the block at the top
+208 37 pick up the block at the upper right corner
+208 37 pick up the top block
+208 37 pick up the top block which color is yellow
+208 37 pick up the top yellow block
+208 37 pick up the upper block which color is yellow
+208 37 pick up the upper right block which color is yellow
+208 37 pick up the upper right yellow block
+208 37 pick up the upper yellow block
+208 37 pick up the yellow block
+208 37 pick up the yellow block at the top
+208 37 pick up the yellow block at the upper right corner
+208 37 pick up the yellow block on the upper right
+216 140 pick up the red block
+216 140 pick up the red block on the right
+216 140 pick up the right block which color is red
+216 140 pick up the right red block
+36 67 pick up the block at the upper left corner
+36 67 pick up the block on the left
+36 67 pick up the block on the upper left
+36 67 pick up the left block
+36 67 pick up the left block which color is purple
+36 67 pick up the left purple block
+36 67 pick up the leftmost block
+36 67 pick up the leftmost block which color is purple
+36 67 pick up the leftmost purple block
+36 67 pick up the purple block
+36 67 pick up the purple block at the upper left corner
+36 67 pick up the purple block on the left
+36 67 pick up the purple block on the upper left
+36 67 pick up the upper block which color is purple
+36 67 pick up the upper left block
+36 67 pick up the upper left block which color is purple
+36 67 pick up the upper left purple block
+36 67 pick up the upper purple block
+92 126 pick up the block in the middle which color is blue
+92 126 pick up the blue block
+92 126 pick up the blue block in the middle
+92 126 pick up the blue block next the center
+92 126 pick up the middle block which color is blue
+92 126 pick up the middle blue block

@@ -1,0 +1,30 @@
+201 50 pick up the block at the upper right corner
+201 50 pick up the block on the upper right
+201 50 pick up the purple block at the top
+201 50 pick up the purple block at the upper right corner
+201 50 pick up the top block which color is purple
+201 50 pick up the top purple block
+201 50 pick up the upper block which color is purple
+201 50 pick up the upper purple block
+213 143 pick up the bottom purple block
+213 143 pick up the lower purple block
+44 187 pick up the block at the bottom left
+44 187 pick up the block at the lower left corner
+44 187 pick up the block on the leftmost bottom
+44 187 pick up the block on the lower left
+44 187 pick up the bottom block which color is green
+44 187 pick up the bottom green block
+44 187 pick up the bottom left block
+44 187 pick up the green block at the bottom
+44 187 pick up the green block at the bottom left
+44 187 pick up the green block at the lower left corner
+44 187 pick up the green block on the leftmost bottom
+44 187 pick up the lower block which color is green
+44 187 pick up the lower green block
+47 75 pick up the block at the upper left corner
+47 75 pick up the block on the upper left
+47 75 pick up the green block at the upper left corner
+47 75 pick up the top block which color is green
+47 75 pick up the top green block
+47 75 pick up the upper block which color is green
+47 75 pick up the upper green block

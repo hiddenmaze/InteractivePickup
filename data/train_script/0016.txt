@@ -1,0 +1,45 @@
+142 197 pick up the block at the bottom
+142 197 pick up the blue block
+142 197 pick up the blue block at the bottom
+142 197 pick up the bottom block
+142 197 pick up the bottom block which color is blue
+142 197 pick up the bottom blue block
+142 197 pick up the lower block which color is blue
+142 197 pick up the lower blue block
+151 122 pick up the block at the center
+151 122 pick up the block at the center which color is purple
+151 122 pick up the block between the blue block and the yellow block
+151 122 pick up the block between the yellow block and the blue block
+151 122 pick up the block in the middle
+151 122 pick up the block in the middle which color is purple
+151 122 pick up the middle block
+151 122 pick up the purple block
+151 122 pick up the purple block at the center
+151 122 pick up the purple block between the blue block and the yellow block
+151 122 pick up the purple block between the yellow block and the blue block
+151 122 pick up the purple block in the middle
+219 80 pick up the block on the right
+219 80 pick up the block on the upper right
+219 80 pick up the right block
+219 80 pick up the right block which color is yellow
+219 80 pick up the right yellow block
+219 80 pick up the rightmost block
+219 80 pick up the rightmost block which color is yellow
+219 80 pick up the rightmost yellow block
+219 80 pick up the top block
+219 80 pick up the top block which color is yellow
+219 80 pick up the top right block
+219 80 pick up the top right block which color is yellow
+219 80 pick up the top right yellow block
+219 80 pick up the top yellow block
+219 80 pick up the upper block which color is yellow
+219 80 pick up the upper right block
+219 80 pick up the upper right block which color is yellow
+219 80 pick up the upper right yellow block
+219 80 pick up the upper yellow block
+219 80 pick up the yellow block
+219 80 pick up the yellow block at the top
+219 80 pick up the yellow block at the top right
+219 80 pick up the yellow block on the right
+219 80 pick up the yellow block on the rightmost top
+219 80 pick up the yellow block on the upper right

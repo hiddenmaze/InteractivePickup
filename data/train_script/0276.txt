@@ -1,0 +1,53 @@
+102 194 pick up the block on the lower right
+102 194 pick up the block on the lower right which color is red
+102 194 pick up the bottom block which color is red
+102 194 pick up the bottom red block
+102 194 pick up the lower block which color is red
+102 194 pick up the lower red block
+102 194 pick up the lower right block
+102 194 pick up the lower right block which color is red
+102 194 pick up the lower right red block
+102 194 pick up the red block
+102 194 pick up the red block at the bottom
+102 194 pick up the red block on the lower right
+106 71 pick up the block on the upper right
+106 71 pick up the block on the upper right which color is yellow
+106 71 pick up the right block which color is yellow
+106 71 pick up the right yellow block
+106 71 pick up the top block which color is yellow
+106 71 pick up the top right block
+106 71 pick up the top right block which color is yellow
+106 71 pick up the top right yellow block
+106 71 pick up the top yellow block
+106 71 pick up the upper block which color is yellow
+106 71 pick up the upper right block
+106 71 pick up the upper right block which color is yellow
+106 71 pick up the upper right yellow block
+106 71 pick up the upper yellow block
+106 71 pick up the yellow block
+106 71 pick up the yellow block at the top
+106 71 pick up the yellow block at the top right
+106 71 pick up the yellow block on the right
+106 71 pick up the yellow block on the upper right
+48 72 pick up the green block
+48 72 pick up the green block at the upper left corner
+48 72 pick up the green block on the left
+48 72 pick up the green block on the upper left
+48 72 pick up the left block which color is green
+48 72 pick up the left green block
+48 72 pick up the top block which color is green
+48 72 pick up the top green block
+48 72 pick up the upper block which color is green
+48 72 pick up the upper green block
+48 72 pick up the upper left block which color is green
+48 72 pick up the upper left green block
+54 157 pick up the block on the lower left
+54 157 pick up the block on the lower left which color is blue
+54 157 pick up the blue block
+54 157 pick up the blue block on the left
+54 157 pick up the blue block on the lower left
+54 157 pick up the left block which color is blue
+54 157 pick up the left blue block
+54 157 pick up the lower left block
+54 157 pick up the lower left block which color is blue
+54 157 pick up the lower left blue block

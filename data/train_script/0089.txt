@@ -1,0 +1,47 @@
+115 138 pick up the block in the middle which color is green
+115 138 pick up the green block
+115 138 pick up the green block between the blue block and the yellow block
+115 138 pick up the green block between the yellow block and the blue block
+115 138 pick up the green block in the middle
+115 138 pick up the middle block which color is green
+115 138 pick up the middle green block
+150 174 pick up the bottom block which color is red
+150 174 pick up the bottom red block
+150 174 pick up the lower block which color is red
+150 174 pick up the lower red block
+150 174 pick up the red block
+150 174 pick up the red block at the bottom
+163 36 pick up the block at the top
+163 36 pick up the purple block
+163 36 pick up the purple block at the top
+163 36 pick up the top block
+163 36 pick up the top block which color is purple
+163 36 pick up the top purple block
+163 36 pick up the upper block
+163 36 pick up the upper block which color is purple
+163 36 pick up the upper purple block
+193 119 pick up the blue block
+193 119 pick up the blue block on the right
+193 119 pick up the right block which color is blue
+193 119 pick up the right blue block
+193 119 pick up the rightmost block
+193 119 pick up the rightmost block which color is blue
+193 119 pick up the rightmost blue block
+41 170 pick up the block on the left
+41 170 pick up the block on the lower left
+41 170 pick up the bottom block which color is yellow
+41 170 pick up the bottom yellow block
+41 170 pick up the left block
+41 170 pick up the left block which color is yellow
+41 170 pick up the left yellow block
+41 170 pick up the leftmost block
+41 170 pick up the leftmost block which color is yellow
+41 170 pick up the leftmost yellow block
+41 170 pick up the lower block which color is yellow
+41 170 pick up the lower left block
+41 170 pick up the lower left block which color is yellow
+41 170 pick up the lower left yellow block
+41 170 pick up the lower yellow block
+41 170 pick up the yellow block
+41 170 pick up the yellow block on the left
+41 170 pick up the yellow block on the lower left

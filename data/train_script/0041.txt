@@ -1,0 +1,57 @@
+182 148 pick up the block on the right
+182 148 pick up the red block
+182 148 pick up the red block on the right
+182 148 pick up the right block
+182 148 pick up the right block which color is red
+182 148 pick up the right red block
+182 148 pick up the rightmost block
+182 148 pick up the rightmost block which color is red
+182 148 pick up the rightmost red block
+41 195 pick up the block at the bottom
+41 195 pick up the block at the bottom left
+41 195 pick up the block at the lower left corner
+41 195 pick up the block on the leftmost bottom
+41 195 pick up the block on the lower left
+41 195 pick up the bottom block
+41 195 pick up the bottom block which color is purple
+41 195 pick up the bottom left block
+41 195 pick up the bottom left block which color is purple
+41 195 pick up the bottom left purple block
+41 195 pick up the bottom purple block
+41 195 pick up the left block which color is purple
+41 195 pick up the left purple block
+41 195 pick up the lower block which color is purple
+41 195 pick up the lower left block
+41 195 pick up the lower left block which color is purple
+41 195 pick up the lower left purple block
+41 195 pick up the lower purple block
+41 195 pick up the purple block
+41 195 pick up the purple block at the bottom
+41 195 pick up the purple block at the bottom left
+41 195 pick up the purple block at the lower left corner
+41 195 pick up the purple block on the left
+41 195 pick up the purple block on the leftmost bottom
+41 195 pick up the purple block on the lower left
+47 51 pick up the block at the top
+47 51 pick up the block at the upper left corner
+47 51 pick up the green block
+47 51 pick up the green block at the top
+47 51 pick up the green block at the upper left corner
+47 51 pick up the green block on the upper left
+47 51 pick up the top block
+47 51 pick up the top block which color is green
+47 51 pick up the top green block
+47 51 pick up the upper block which color is green
+47 51 pick up the upper green block
+47 51 pick up the upper left block which color is green
+47 51 pick up the upper left green block
+77 95 pick up the block between other blocks
+77 95 pick up the block in the middle
+77 95 pick up the left block which color is yellow
+77 95 pick up the left yellow block
+77 95 pick up the middle block
+77 95 pick up the middle yellow block
+77 95 pick up the yellow block
+77 95 pick up the yellow block between other blocks
+77 95 pick up the yellow block in the middle
+77 95 pick up the yellow block on the left

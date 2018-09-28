@@ -1,0 +1,32 @@
+115 186 pick up the blue block between the another blue block and the lower green block
+115 186 pick up the blue block between the lower green block and the another blue block
+115 186 pick up the left blue block
+115 186 pick up the lower middle block
+184 176 pick up the block at the lower right corner
+184 176 pick up the block on the lower right
+184 176 pick up the block on the right
+184 176 pick up the blue block at the lower right corner
+184 176 pick up the blue block on the right
+184 176 pick up the lower right block
+184 176 pick up the right block which color is blue
+184 176 pick up the right blue block
+184 176 pick up the rightmost block
+184 176 pick up the rightmost block which color is blue
+184 176 pick up the rightmost blue block
+40 118 pick up the block at the top
+40 118 pick up the green block at the top
+40 118 pick up the top block
+40 118 pick up the top block which color is green
+40 118 pick up the top green block
+40 118 pick up the upper block
+40 118 pick up the upper block which color is green
+40 118 pick up the upper green block
+59 196 pick up the block at the lower left corner
+59 196 pick up the block on the lower left
+59 196 pick up the bottom block which color is green
+59 196 pick up the bottom green block
+59 196 pick up the green block at the bottom
+59 196 pick up the green block at the lower left corner
+59 196 pick up the lower block which color is green
+59 196 pick up the lower green block
+59 196 pick up the lower left block

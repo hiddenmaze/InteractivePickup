@@ -1,0 +1,51 @@
+111 111 pick up the block between purple blocks
+111 111 pick up the block between two purple blocks
+111 111 pick up the block near the center
+111 111 pick up the red block between purple blocks
+111 111 pick up the red block between two purple blocks
+111 111 pick up the red block near the center
+111 111 pick up the red block on the right
+111 111 pick up the right red block
+203 48 pick up the block at the top
+203 48 pick up the block at the top right
+203 48 pick up the block at the upper right corner
+203 48 pick up the block on the right
+203 48 pick up the block on the rightmost top
+203 48 pick up the block on the upper right
+203 48 pick up the purple block at the top
+203 48 pick up the purple block at the top right
+203 48 pick up the purple block at the upper right corner
+203 48 pick up the purple block on the right
+203 48 pick up the purple block on the rightmost top
+203 48 pick up the purple block on the upper right
+203 48 pick up the right block
+203 48 pick up the right block which color is purple
+203 48 pick up the right purple block
+203 48 pick up the rightmost block
+203 48 pick up the rightmost block which color is purple
+203 48 pick up the rightmost purple block
+203 48 pick up the top block
+203 48 pick up the top block which color is purple
+203 48 pick up the top purple block
+203 48 pick up the top right block
+203 48 pick up the top right block which color is purple
+203 48 pick up the top right purple block
+203 48 pick up the upper block which color is purple
+203 48 pick up the upper purple block
+203 48 pick up the upper right block
+203 48 pick up the upper right block which color is purple
+203 48 pick up the upper right purple block
+27 89 pick up the left block which color is red
+27 89 pick up the left red block
+27 89 pick up the red block on the left
+45 154 pick up the block at the bottom
+45 154 pick up the bottom block
+45 154 pick up the bottom block which color is purple
+45 154 pick up the bottom purple block
+45 154 pick up the left block which color is purple
+45 154 pick up the left purple block
+45 154 pick up the lower block which color is purple
+45 154 pick up the lower left purple block
+45 154 pick up the lower purple block
+45 154 pick up the purple block at the bottom
+45 154 pick up the purple block on the left

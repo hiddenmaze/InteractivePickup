@@ -1,0 +1,47 @@
+191 186 pick up the block at the bottom right
+191 186 pick up the block at the lower right corner
+191 186 pick up the block on the lower right
+191 186 pick up the block on the right
+191 186 pick up the block on the rightmost bottom
+191 186 pick up the bottom block which color is yellow
+191 186 pick up the bottom right block
+191 186 pick up the bottom right block which color is yellow
+191 186 pick up the bottom right yellow block
+191 186 pick up the bottom yellow block
+191 186 pick up the lower block which color is yellow
+191 186 pick up the lower right block
+191 186 pick up the lower right block which color is yellow
+191 186 pick up the lower right yellow block
+191 186 pick up the lower yellow block
+191 186 pick up the right block
+191 186 pick up the right block which color is yellow
+191 186 pick up the right yellow block
+191 186 pick up the rightmost block
+191 186 pick up the rightmost block which color is yellow
+191 186 pick up the rightmost yellow block
+191 186 pick up the yellow block
+191 186 pick up the yellow block at the bottom
+191 186 pick up the yellow block at the bottom right
+191 186 pick up the yellow block at the lower right corner
+191 186 pick up the yellow block on the lower right
+191 186 pick up the yellow block on the right
+191 186 pick up the yellow block on the rightmost bottom
+39 143 pick up the blue block
+39 143 pick up the blue block on the left
+39 143 pick up the left block which color is blue
+39 143 pick up the left blue block
+43 64 pick up the block at the top
+43 64 pick up the block at the upper left corner
+43 64 pick up the green block
+43 64 pick up the green block at the top
+43 64 pick up the green block at the upper left corner
+43 64 pick up the green block on the upper left
+43 64 pick up the top block which color is green
+43 64 pick up the top green block
+43 64 pick up the upper block which color is green
+43 64 pick up the upper green block
+43 64 pick up the upper left block
+43 64 pick up the upper left block which color is green
+43 64 pick up the upper left green block
+97 104 pick up the red block
+97 104 pick up the red block near the center

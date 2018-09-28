@@ -1,0 +1,47 @@
+145 139 pick up the block on the right
+145 139 pick up the red block on the right
+145 139 pick up the right block which color is red
+145 139 pick up the right red block
+145 139 pick up the rightmost block
+145 139 pick up the rightmost block which color is red
+145 139 pick up the rightmost red block
+145 139 pick up the upper right red block
+27 195 pick up the block at the bottom
+27 195 pick up the block at the bottom left
+27 195 pick up the block at the lower left corner
+27 195 pick up the block on the leftmost bottom
+27 195 pick up the block on the lower left
+27 195 pick up the bottom block
+27 195 pick up the bottom block which color is red
+27 195 pick up the bottom left block
+27 195 pick up the bottom left block which color is red
+27 195 pick up the bottom left red block
+27 195 pick up the bottom red block
+27 195 pick up the left block which color is red
+27 195 pick up the left red block
+27 195 pick up the leftmost red block
+27 195 pick up the lower left block
+27 195 pick up the lower left block which color is red
+27 195 pick up the lower left red block
+27 195 pick up the lower red block
+27 195 pick up the red block at the bottom
+27 195 pick up the red block at the bottom left
+27 195 pick up the red block at the lower left corner
+27 195 pick up the red block on the left
+27 195 pick up the red block on the leftmost bottom
+27 195 pick up the red block on the lower left
+48 88 pick up the block at the top
+48 88 pick up the blue block at the top
+48 88 pick up the top block
+48 88 pick up the top block which color is blue
+48 88 pick up the top blue block
+48 88 pick up the upper blue block
+59 146 pick up the block among other blocks
+59 146 pick up the block among others
+59 146 pick up the block between other blocks
+59 146 pick up the block between others
+59 146 pick up the blue block among other blocks
+59 146 pick up the blue block among others
+59 146 pick up the blue block between other blocks
+59 146 pick up the blue block between others
+59 146 pick up the lower blue block

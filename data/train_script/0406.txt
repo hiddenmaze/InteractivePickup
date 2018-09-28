@@ -1,0 +1,29 @@
+141 102 pick up the upper left red block
+141 102 pick up the upper red block
+191 206 pick up the block at the bottom
+191 206 pick up the block at the bottom right
+191 206 pick up the block at the lower right corner
+191 206 pick up the block on the lower right
+191 206 pick up the block on the rightmost bottom
+191 206 pick up the bottom block
+191 206 pick up the bottom block which color is red
+191 206 pick up the bottom red block
+191 206 pick up the bottom right block
+191 206 pick up the bottom right red block
+191 206 pick up the lower block which color is red
+191 206 pick up the lower red block
+191 206 pick up the lower right block
+191 206 pick up the red block at the bottom
+191 206 pick up the red block at the bottom right
+191 206 pick up the red block at the lower right corner
+191 206 pick up the rightmost block
+191 206 pick up the rightmost block which color is red
+191 206 pick up the rightmost red block
+39 135 pick up the lower green block
+63 72 pick up the block on the upper left
+63 72 pick up the green block at the top
+63 72 pick up the top block which color is green
+63 72 pick up the top green block
+63 72 pick up the upper block which color is green
+63 72 pick up the upper green block
+63 72 pick up the upper left block

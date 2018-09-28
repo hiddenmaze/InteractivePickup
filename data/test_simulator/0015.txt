@@ -1,0 +1,2 @@
+37,101,pick up the upper block,purple,left
+217,81,pick up the upper block,yellow,right

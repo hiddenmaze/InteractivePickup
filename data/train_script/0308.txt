@@ -1,0 +1,44 @@
+170 86 pick up the blue block on the right
+170 86 pick up the right block which color is blue
+170 86 pick up the right blue block
+187 186 pick up the block at the bottom
+187 186 pick up the block at the lower right corner
+187 186 pick up the block on the lower right
+187 186 pick up the bottom block
+187 186 pick up the bottom block which color is purple
+187 186 pick up the bottom purple block
+187 186 pick up the lower block
+187 186 pick up the lower block which color is purple
+187 186 pick up the lower purple block
+187 186 pick up the lower right block
+187 186 pick up the lower right block which color is purple
+187 186 pick up the purple block at the bottom
+187 186 pick up the purple block at the lower right corner
+187 186 pick up the purple block on the lower right
+200 50 pick up the block at the upper right corner
+200 50 pick up the purple block at the top
+200 50 pick up the purple block at the top right
+200 50 pick up the purple block at the upper right corner
+200 50 pick up the purple block on the rightmost top
+200 50 pick up the purple block on the upper right
+200 50 pick up the top block which color is purple
+200 50 pick up the top purple block
+200 50 pick up the top right block which color is purple
+200 50 pick up the top right purple block
+200 50 pick up the upper block which color is purple
+200 50 pick up the upper purple block
+200 50 pick up the upper right block which color is purple
+47 59 pick up the block at the upper left corner
+47 59 pick up the block on the left
+47 59 pick up the block on the upper left
+47 59 pick up the blue block at the upper left corner
+47 59 pick up the blue block on the left
+47 59 pick up the blue block on the upper left
+47 59 pick up the left block
+47 59 pick up the left block which color is blue
+47 59 pick up the left blue block
+47 59 pick up the leftmost block
+47 59 pick up the leftmost block which color is blue
+47 59 pick up the leftmost blue block
+47 59 pick up the upper left block
+47 59 pick up the upper left block which color is blue

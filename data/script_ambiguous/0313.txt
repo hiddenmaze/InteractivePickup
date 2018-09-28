@@ -1,0 +1,7 @@
+pick up the block which color is red
+pick up the red block
+pick up the block on the right which color is purple
+pick up the block which color is purple
+pick up the right purple block
+pick up the purple block
+pick up the right block which color is purple

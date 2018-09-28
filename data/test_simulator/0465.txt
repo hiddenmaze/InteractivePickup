@@ -1,0 +1,20 @@
+162,155,pick up the block on the right which color is red,red,upper
+175,226,pick up the block on the right which color is red,red,lower
+161,155,pick up the block which color is red,red,upper
+175,226,pick up the block which color is red,red,lower
+124,66,pick up the blue block,blue,upperright upper right
+42,183,pick up the blue block,blue,lowerleft lower left
+162,156,pick up the red block,red,upper
+175,227,pick up the red block,red,lower
+162,155,pick up the right block which color is red,red,upper
+175,227,pick up the right block which color is red,red,lower
+161,156,pick up the right red block,red,upper
+175,227,pick up the right red block,red,lower
+162,155,pick up the block on the right,red,middle
+175,227,pick up the block on the right,red,lower
+161,155,pick up the rightmost block,red,middle
+175,227,pick up the rightmost block,red,lower
+162,155,pick up the right block,red,middle
+176,227,pick up the right block,red,lower
+40,183,pick up the block which color is blue,blue,lowerleft lower left
+123,66,pick up the block which color is blue,blue,upperright upper right

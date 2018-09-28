@@ -1,0 +1,9 @@
+pick up the block on the right
+pick up the blue block
+pick up the block which color is green
+pick up the rightmost block
+pick up the upper block which color is green
+pick up the right block
+pick up the upper green block
+pick up the block which color is blue
+pick up the green block

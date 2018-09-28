@@ -1,0 +1,46 @@
+180 191 pick up the block at the bottom right
+180 191 pick up the block on the lower right
+180 191 pick up the block on the right
+180 191 pick up the block on the rightmost bottom
+180 191 pick up the bottom block which color is green
+180 191 pick up the bottom green block
+180 191 pick up the bottom right block
+180 191 pick up the bottom right block which color is green
+180 191 pick up the bottom right green block
+180 191 pick up the green block
+180 191 pick up the green block at the bottom
+180 191 pick up the green block at the bottom right
+180 191 pick up the green block on the lower right
+180 191 pick up the green block on the right
+180 191 pick up the green block on the rightmost bottom
+180 191 pick up the lower block which color is green
+180 191 pick up the lower green block
+180 191 pick up the lower right block
+180 191 pick up the lower right block which color is green
+180 191 pick up the lower right green block
+180 191 pick up the right block
+180 191 pick up the right block which color is green
+180 191 pick up the right green block
+180 191 pick up the rightmost block
+180 191 pick up the rightmost block which color is green
+180 191 pick up the rightmost green block
+34 88 pick up the block on the left
+34 88 pick up the left block
+34 88 pick up the left block which color is red
+34 88 pick up the left red block
+34 88 pick up the leftmost block
+34 88 pick up the leftmost block which color is red
+34 88 pick up the leftmost red block
+34 88 pick up the red block
+34 88 pick up the red block on the left
+34 88 pick up the upper block which color is red
+34 88 pick up the upper red block
+78 164 pick up the left block which color is yellow
+78 164 pick up the left yellow block
+78 164 pick up the yellow block
+78 164 pick up the yellow block on the left
+88 104 pick up the block above the yellow block
+88 104 pick up the block next to the red block
+88 104 pick up the blue block
+88 104 pick up the blue block above the yellow block
+88 104 pick up the blue block next to the red block

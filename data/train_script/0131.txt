@@ -1,0 +1,62 @@
+175 99 pick up the green block on the right
+175 99 pick up the right block which color is green
+175 99 pick up the right green block
+197 192 pick up the block at the lower right corner
+197 192 pick up the bottom block which color is purple
+197 192 pick up the bottom purple block
+197 192 pick up the lower block which color is purple
+197 192 pick up the lower purple block
+197 192 pick up the lower right block
+197 192 pick up the lower right block which color is purple
+197 192 pick up the lower right purple block
+197 192 pick up the purple block
+197 192 pick up the purple block at the bottom
+197 192 pick up the purple block at the lower right corner
+197 192 pick up the purple block on the lower right
+197 192 pick up the purple block on the right
+197 192 pick up the right block which color is purple
+197 192 pick up the right purple block
+207 36 pick up the block at the top
+207 36 pick up the block at the top right
+207 36 pick up the block at the upper right corner
+207 36 pick up the block on the rightmost top
+207 36 pick up the right block which color is yellow
+207 36 pick up the right yellow block
+207 36 pick up the top block
+207 36 pick up the top block which color is yellow
+207 36 pick up the top right block
+207 36 pick up the top right block which color is yellow
+207 36 pick up the top right yellow block
+207 36 pick up the top yellow block
+207 36 pick up the upper block which color is yellow
+207 36 pick up the upper right block which color is yellow
+207 36 pick up the upper right yellow block
+207 36 pick up the upper yellow block
+207 36 pick up the yellow block
+207 36 pick up the yellow block at the top
+207 36 pick up the yellow block at the top right
+207 36 pick up the yellow block at the upper right corner
+207 36 pick up the yellow block on the right
+207 36 pick up the yellow block on the rightmost top
+207 36 pick up the yellow block on the upper right
+43 175 pick up the bottom block which color is red
+43 175 pick up the bottom red block
+43 175 pick up the left block which color is red
+43 175 pick up the left red block
+43 175 pick up the leftmost block
+43 175 pick up the leftmost block which color is red
+43 175 pick up the leftmost red block
+43 175 pick up the lower block which color is red
+43 175 pick up the lower left block which color is red
+43 175 pick up the lower left red block
+43 175 pick up the lower red block
+43 175 pick up the red block
+43 175 pick up the red block on the left
+43 175 pick up the red block on the lower left
+79 82 pick up the green block on the left
+79 82 pick up the left green block
+93 128 pick up the block in the middle which color is blue
+93 128 pick up the blue block
+93 128 pick up the blue block in the middle
+93 128 pick up the middle block which color is blue
+93 128 pick up the middle blue block

@@ -1,0 +1,7 @@
+pick up the block on the right
+pick up the block on the left
+pick up the left block
+pick up the right block
+pick up the rightmost block
+pick up the leftmost block
+pick up the upper block

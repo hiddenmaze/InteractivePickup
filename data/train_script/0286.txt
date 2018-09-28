@@ -1,0 +1,48 @@
+105 70 pick up the block between the blue block and the green block
+105 70 pick up the block between the green block and the blue block
+105 70 pick up the upper block which color is yellow
+105 70 pick up the upper yellow block
+105 70 pick up the yellow block
+105 70 pick up the yellow block between the blue block and the green block
+105 70 pick up the yellow block between the green block and the blue block
+165 82 pick up the green block
+165 82 pick up the green block on the upper right
+165 82 pick up the upper block which color is green
+165 82 pick up the upper green block
+165 82 pick up the upper right block which color is green
+165 82 pick up the upper right green block
+212 125 pick up the bottom block which color is purple
+212 125 pick up the bottom purple block
+212 125 pick up the lower block which color is purple
+212 125 pick up the lower purple block
+212 125 pick up the purple block
+212 125 pick up the purple block at the bottom
+212 125 pick up the purple block on the right
+212 125 pick up the right block which color is purple
+212 125 pick up the right purple block
+212 125 pick up the rightmost block
+212 125 pick up the rightmost block which color is purple
+212 125 pick up the rightmost purple block
+43 68 pick up the block at the top left
+43 68 pick up the block at the upper left corner
+43 68 pick up the block on the leftmost top
+43 68 pick up the blue block
+43 68 pick up the blue block at the top
+43 68 pick up the blue block at the top left
+43 68 pick up the blue block at the upper left corner
+43 68 pick up the blue block on the left
+43 68 pick up the blue block on the leftmost top
+43 68 pick up the blue block on the upper left
+43 68 pick up the left block which color is blue
+43 68 pick up the left blue block
+43 68 pick up the leftmost block
+43 68 pick up the leftmost block which color is blue
+43 68 pick up the leftmost blue block
+43 68 pick up the top block which color is blue
+43 68 pick up the top blue block
+43 68 pick up the top left block which color is blue
+43 68 pick up the top left blue block
+43 68 pick up the upper block which color is blue
+43 68 pick up the upper blue block
+43 68 pick up the upper left block which color is blue
+43 68 pick up the upper left blue block

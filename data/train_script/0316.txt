@@ -1,0 +1,56 @@
+113 108 pick up the block on the left
+113 108 pick up the left block
+113 108 pick up the left block which color is red
+113 108 pick up the left red block
+113 108 pick up the leftmost block
+113 108 pick up the leftmost block which color is red
+113 108 pick up the leftmost red block
+113 108 pick up the red block on the left
+113 108 pick up the red block on the upper left
+113 108 pick up the upper left red block
+189 188 pick up the block at the bottom
+189 188 pick up the block at the lower right corner
+189 188 pick up the block on the lower right
+189 188 pick up the bottom block
+189 188 pick up the bottom block which color is red
+189 188 pick up the bottom red block
+189 188 pick up the lower block
+189 188 pick up the lower block which color is red
+189 188 pick up the lower red block
+189 188 pick up the lower right block
+189 188 pick up the lower right block which color is red
+189 188 pick up the lower right red block
+189 188 pick up the red block at the bottom
+189 188 pick up the red block at the lower right corner
+189 188 pick up the red block on the lower right
+189 188 pick up the red block on the right
+189 188 pick up the right block which color is red
+189 188 pick up the right red block
+194 111 pick up the block among other blocks
+194 111 pick up the block among others
+194 111 pick up the block between other blocks
+194 111 pick up the block between others
+194 111 pick up the lower purple block
+194 111 pick up the purple block among other blocks
+194 111 pick up the purple block among others
+194 111 pick up the purple block between other blocks
+194 111 pick up the purple block between others
+194 111 pick up the right center block
+194 111 pick up the right middle block
+202 52 pick up the block at the top
+202 52 pick up the block at the top right
+202 52 pick up the block at the upper right corner
+202 52 pick up the block on the rightmost top
+202 52 pick up the block on the upper right
+202 52 pick up the purple block at the top
+202 52 pick up the purple block at the top right
+202 52 pick up the purple block at the upper right corner
+202 52 pick up the purple block on the rightmost top
+202 52 pick up the top block
+202 52 pick up the top block which color is purple
+202 52 pick up the top purple block
+202 52 pick up the upper block
+202 52 pick up the upper block which color is purple
+202 52 pick up the upper purple block
+202 52 pick up the upper right block
+202 52 pick up the upper right block which color is purple

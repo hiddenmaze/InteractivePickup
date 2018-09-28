@@ -1,0 +1,55 @@
+195 190 pick up the block at the bottom right
+195 190 pick up the block at the lower right corner
+195 190 pick up the block on the lower right
+195 190 pick up the block on the rightmost bottom
+195 190 pick up the bottom block which color is yellow
+195 190 pick up the bottom right block
+195 190 pick up the bottom right block which color is yellow
+195 190 pick up the bottom right yellow block
+195 190 pick up the bottom yellow block
+195 190 pick up the lower block which color is yellow
+195 190 pick up the lower right block
+195 190 pick up the lower right block which color is yellow
+195 190 pick up the lower right yellow block
+195 190 pick up the lower yellow block
+195 190 pick up the right block which color is yellow
+195 190 pick up the right yellow block
+195 190 pick up the rightmost block
+195 190 pick up the rightmost block which color is yellow
+195 190 pick up the rightmost yellow block
+195 190 pick up the yellow block
+195 190 pick up the yellow block at the bottom
+195 190 pick up the yellow block at the bottom right
+195 190 pick up the yellow block at the lower right corner
+195 190 pick up the yellow block on the lower right
+195 190 pick up the yellow block on the right
+195 190 pick up the yellow block on the rightmost bottom
+29 163 pick up the left block which color is red
+29 163 pick up the left red block
+29 163 pick up the red block
+29 163 pick up the red block on the left
+43 64 pick up the block at the top
+43 64 pick up the block at the upper left corner
+43 64 pick up the block on the upper left
+43 64 pick up the purple block
+43 64 pick up the purple block at the top
+43 64 pick up the purple block at the upper left corner
+43 64 pick up the purple block on the upper left
+43 64 pick up the top block
+43 64 pick up the top block which color is purple
+43 64 pick up the top purple block
+43 64 pick up the upper block
+43 64 pick up the upper block which color is purple
+43 64 pick up the upper left block
+43 64 pick up the upper left block which color is purple
+43 64 pick up the upper left purple block
+43 64 pick up the upper purple block
+97 186 pick up the block between the red block and the yellow block
+97 186 pick up the block between the yellow block and the red block
+97 186 pick up the blue block
+97 186 pick up the blue block between the red block and the yellow block
+97 186 pick up the blue block between the yellow block and the red block
+97 186 pick up the lower block which color is blue
+97 186 pick up the lower blue block
+97 186 pick up the lower middle block
+97 186 pick up the lower middle blue block

@@ -1,0 +1,5 @@
+pick up the block which color is yellow
+pick up the block on the right
+pick up the yellow block
+pick up the right block
+pick up the block near the center

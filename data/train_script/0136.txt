@@ -1,0 +1,46 @@
+108 57 pick up the green block between the purple block and the yellow block
+108 57 pick up the green block between the yellow block and the purple block
+108 57 pick up the left green block
+108 57 pick up the upper green block
+108 57 pick up the upper left green block
+108 57 pick up the upper middle block
+116 199 pick up the block at the bottom
+116 199 pick up the blue block
+116 199 pick up the blue block at the bottom
+116 199 pick up the bottom block
+116 199 pick up the bottom block which color is blue
+116 199 pick up the bottom blue block
+116 199 pick up the lower block which color is blue
+116 199 pick up the lower blue block
+175 99 pick up the green block on the right
+175 99 pick up the lower right green block
+175 99 pick up the right block which color is green
+175 99 pick up the right green block
+209 35 pick up the block at the upper right corner
+209 35 pick up the top block which color is yellow
+209 35 pick up the top yellow block
+209 35 pick up the upper block which color is yellow
+209 35 pick up the upper right block which color is yellow
+209 35 pick up the upper right yellow block
+209 35 pick up the upper yellow block
+209 35 pick up the yellow block
+209 35 pick up the yellow block at the top
+209 35 pick up the yellow block at the upper right corner
+209 35 pick up the yellow block on the upper right
+216 141 pick up the red block
+216 141 pick up the red block on the right
+216 141 pick up the right block which color is red
+216 141 pick up the right red block
+39 68 pick up the left block which color is purple
+39 68 pick up the left purple block
+39 68 pick up the leftmost block
+39 68 pick up the leftmost block which color is purple
+39 68 pick up the leftmost purple block
+39 68 pick up the purple block
+39 68 pick up the purple block at the upper left corner
+39 68 pick up the purple block on the left
+39 68 pick up the purple block on the upper left
+39 68 pick up the upper block which color is purple
+39 68 pick up the upper left block which color is purple
+39 68 pick up the upper left purple block
+39 68 pick up the upper purple block

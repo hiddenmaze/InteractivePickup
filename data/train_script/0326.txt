@@ -1,0 +1,49 @@
+143 174 pick up the block at the bottom
+143 174 pick up the bottom block
+143 174 pick up the bottom block which color is green
+143 174 pick up the bottom green block
+143 174 pick up the green block at the bottom
+143 174 pick up the lower block which color is green
+143 174 pick up the lower green block
+143 174 pick up the lower right green block
+143 174 pick up the right green block
+199 52 pick up the block at the top right
+199 52 pick up the block at the upper right corner
+199 52 pick up the block on the rightmost top
+199 52 pick up the block on the upper right
+199 52 pick up the purple block at the top
+199 52 pick up the purple block at the top right
+199 52 pick up the purple block at the upper right corner
+199 52 pick up the purple block on the right
+199 52 pick up the purple block on the rightmost top
+199 52 pick up the purple block on the upper right
+199 52 pick up the right block which color is purple
+199 52 pick up the right purple block
+199 52 pick up the rightmost block
+199 52 pick up the rightmost block which color is purple
+199 52 pick up the rightmost purple block
+199 52 pick up the top block which color is purple
+199 52 pick up the top purple block
+199 52 pick up the top right block
+199 52 pick up the top right block which color is purple
+199 52 pick up the top right purple block
+199 52 pick up the upper block which color is purple
+199 52 pick up the upper purple block
+199 52 pick up the upper right block
+199 52 pick up the upper right block which color is purple
+199 52 pick up the upper right purple block
+30 135 pick up the left block which color is purple
+30 135 pick up the left purple block
+30 135 pick up the lower left purple block
+30 135 pick up the lower purple block
+30 135 pick up the purple block on the left
+47 80 pick up the block on the upper left
+47 80 pick up the green block at the upper left corner
+47 80 pick up the green block on the upper left
+47 80 pick up the top block which color is green
+47 80 pick up the top green block
+47 80 pick up the upper block which color is green
+47 80 pick up the upper green block
+47 80 pick up the upper left block
+47 80 pick up the upper left block which color is green
+47 80 pick up the upper left green block

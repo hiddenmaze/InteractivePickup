@@ -1,0 +1,54 @@
+162 179 pick up the lower green block
+173 95 pick up the upper green block
+209 37 pick up the block at the top
+209 37 pick up the block at the top right
+209 37 pick up the block at the upper right corner
+209 37 pick up the block on the rightmost top
+209 37 pick up the right block which color is yellow
+209 37 pick up the right yellow block
+209 37 pick up the rightmost block
+209 37 pick up the rightmost block which color is yellow
+209 37 pick up the rightmost yellow block
+209 37 pick up the top block
+209 37 pick up the top block which color is yellow
+209 37 pick up the top right block
+209 37 pick up the top right block which color is yellow
+209 37 pick up the top right yellow block
+209 37 pick up the top yellow block
+209 37 pick up the upper block which color is yellow
+209 37 pick up the upper right block which color is yellow
+209 37 pick up the upper right yellow block
+209 37 pick up the upper yellow block
+209 37 pick up the yellow block
+209 37 pick up the yellow block at the top
+209 37 pick up the yellow block at the top right
+209 37 pick up the yellow block at the upper right corner
+209 37 pick up the yellow block on the right
+209 37 pick up the yellow block on the rightmost top
+209 37 pick up the yellow block on the upper right
+36 68 pick up the left block which color is purple
+36 68 pick up the left purple block
+36 68 pick up the purple block
+36 68 pick up the purple block on the left
+36 68 pick up the purple block on the upper left
+36 68 pick up the upper block which color is purple
+36 68 pick up the upper left block which color is purple
+36 68 pick up the upper left purple block
+36 68 pick up the upper purple block
+43 174 pick up the bottom block which color is red
+43 174 pick up the bottom red block
+43 174 pick up the left block which color is red
+43 174 pick up the left red block
+43 174 pick up the lower block which color is red
+43 174 pick up the lower left block which color is red
+43 174 pick up the lower left red block
+43 174 pick up the lower red block
+43 174 pick up the red block
+43 174 pick up the red block on the left
+43 174 pick up the red block on the lower left
+92 125 pick up the block in the middle which color is blue
+92 125 pick up the blue block
+92 125 pick up the blue block between other blocks
+92 125 pick up the blue block in the middle
+92 125 pick up the middle block which color is blue
+92 125 pick up the middle blue block

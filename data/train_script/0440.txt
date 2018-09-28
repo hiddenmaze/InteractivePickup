@@ -1,0 +1,49 @@
+114 143 pick up the block between two yellow blocks
+114 143 pick up the block between yellow blocks
+114 143 pick up the block near the center
+114 143 pick up the blue block between two yellow blocks
+114 143 pick up the blue block between yellow blocks
+114 143 pick up the blue block near the center
+114 143 pick up the lower blue block
+114 143 pick up the lower right blue block
+114 143 pick up the right blue block
+160 97 pick up the right block which color is yellow
+160 97 pick up the right yellow block
+160 97 pick up the rightmost block
+160 97 pick up the rightmost block which color is yellow
+160 97 pick up the rightmost yellow block
+160 97 pick up the upper right block
+160 97 pick up the upper right yellow block
+160 97 pick up the upper yellow block
+160 97 pick up the yellow block on the right
+34 171 pick up the block at the bottom
+34 171 pick up the block at the bottom left
+34 171 pick up the block on the leftmost bottom
+34 171 pick up the block on the lower left
+34 171 pick up the bottom block
+34 171 pick up the bottom block which color is yellow
+34 171 pick up the bottom left block
+34 171 pick up the bottom left block which color is yellow
+34 171 pick up the bottom left yellow block
+34 171 pick up the bottom yellow block
+34 171 pick up the left block which color is yellow
+34 171 pick up the left yellow block
+34 171 pick up the leftmost yellow block
+34 171 pick up the lower block which color is yellow
+34 171 pick up the lower left block
+34 171 pick up the lower left block which color is yellow
+34 171 pick up the lower left yellow block
+34 171 pick up the lower yellow block
+34 171 pick up the yellow block at the bottom
+34 171 pick up the yellow block at the bottom left
+34 171 pick up the yellow block on the left
+34 171 pick up the yellow block on the leftmost bottom
+34 171 pick up the yellow block on the lower left
+57 84 pick up the blue block at the top
+57 84 pick up the left block which color is blue
+57 84 pick up the left blue block
+57 84 pick up the top block which color is blue
+57 84 pick up the top blue block
+57 84 pick up the upper block which color is blue
+57 84 pick up the upper blue block
+57 84 pick up the upper left blue block

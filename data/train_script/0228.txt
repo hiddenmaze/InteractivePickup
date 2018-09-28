@@ -1,0 +1,46 @@
+186 62 pick up the block at the upper right corner
+186 62 pick up the block on the upper right
+186 62 pick up the purple block
+186 62 pick up the purple block at the top
+186 62 pick up the purple block at the upper right corner
+186 62 pick up the purple block on the upper right
+186 62 pick up the top block which color is purple
+186 62 pick up the top purple block
+186 62 pick up the upper block which color is purple
+186 62 pick up the upper purple block
+186 62 pick up the upper right block
+186 62 pick up the upper right block which color is purple
+186 62 pick up the upper right purple block
+21 70 pick up the block on the upper left
+21 70 pick up the green block
+21 70 pick up the green block on the left
+21 70 pick up the green block on the upper left
+21 70 pick up the left block which color is green
+21 70 pick up the left green block
+21 70 pick up the top block which color is green
+21 70 pick up the top green block
+21 70 pick up the upper block which color is green
+21 70 pick up the upper green block
+21 70 pick up the upper left block
+21 70 pick up the upper left block which color is green
+21 70 pick up the upper left green block
+213 136 pick up the blue block
+213 136 pick up the blue block on the right
+213 136 pick up the right block which color is blue
+213 136 pick up the right blue block
+60 180 pick up the block at the lower left corner
+60 180 pick up the block on the lower left
+60 180 pick up the bottom block which color is red
+60 180 pick up the bottom red block
+60 180 pick up the left block which color is red
+60 180 pick up the left red block
+60 180 pick up the lower block which color is red
+60 180 pick up the lower left block
+60 180 pick up the lower left block which color is red
+60 180 pick up the lower left red block
+60 180 pick up the lower red block
+60 180 pick up the red block
+60 180 pick up the red block at the bottom
+60 180 pick up the red block at the lower left corner
+60 180 pick up the red block on the left
+60 180 pick up the red block on the lower left

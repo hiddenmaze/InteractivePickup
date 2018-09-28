@@ -1,0 +1,55 @@
+145 180 pick up the block between the blue block and the purple block
+145 180 pick up the block between the purple block and the blue block
+145 180 pick up the lower block which color is red
+145 180 pick up the lower center block
+145 180 pick up the lower middle block
+145 180 pick up the lower middle block which color is red
+145 180 pick up the lower middle red block
+145 180 pick up the lower red block
+145 180 pick up the red block
+145 180 pick up the red block between the blue block and the purple block
+145 180 pick up the red block between the purple block and the blue block
+171 91 pick up the block at the top
+171 91 pick up the green block
+171 91 pick up the green block at the top
+171 91 pick up the green block on the right
+171 91 pick up the right block which color is green
+171 91 pick up the right green block
+171 91 pick up the top block
+171 91 pick up the top block which color is green
+171 91 pick up the top green block
+171 91 pick up the upper block
+171 91 pick up the upper block which color is green
+171 91 pick up the upper green block
+187 167 pick up the bottom block which color is purple
+187 167 pick up the bottom purple block
+187 167 pick up the lower block which color is purple
+187 167 pick up the lower purple block
+187 167 pick up the lower right block which color is purple
+187 167 pick up the lower right purple block
+187 167 pick up the purple block
+187 167 pick up the purple block just next to the red block
+187 167 pick up the purple block next to the red block
+187 167 pick up the purple block on the lower right
+187 167 pick up the purple block on the right
+187 167 pick up the right block which color is purple
+187 167 pick up the right purple block
+80 183 pick up the blue block
+80 183 pick up the blue block at the bottom
+80 183 pick up the blue block at the bottom left
+80 183 pick up the blue block on the left
+80 183 pick up the blue block on the leftmost bottom
+80 183 pick up the blue block on the lower left
+80 183 pick up the bottom block which color is blue
+80 183 pick up the bottom blue block
+80 183 pick up the bottom left block which color is blue
+80 183 pick up the bottom left blue block
+80 183 pick up the left block which color is blue
+80 183 pick up the left blue block
+80 183 pick up the leftmost block
+80 183 pick up the leftmost block which color is blue
+80 183 pick up the leftmost blue block
+80 183 pick up the lower block which color is blue
+80 183 pick up the lower blue block
+80 183 pick up the lower left block which color is blue
+80 183 pick up the lower left blue block

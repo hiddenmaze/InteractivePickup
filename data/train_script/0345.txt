@@ -1,0 +1,18 @@
+128 118 pick up the upper blue block
+135 182 pick up the block on the lower right
+135 182 pick up the lower blue block
+135 182 pick up the lower right block
+52 105 pick up the green block at the top
+52 105 pick up the top block which color is green
+52 105 pick up the top green block
+52 105 pick up the upper block which color is green
+52 105 pick up the upper green block
+52 105 pick up the upper left block
+77 188 pick up the block at the lower left corner
+77 188 pick up the block on the lower left
+77 188 pick up the bottom block which color is green
+77 188 pick up the bottom green block
+77 188 pick up the green block at the bottom
+77 188 pick up the green block at the lower left corner
+77 188 pick up the lower block which color is green
+77 188 pick up the lower green block

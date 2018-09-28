@@ -1,0 +1,56 @@
+169 165 pick up the blue block
+169 165 pick up the blue block on the right
+169 165 pick up the lower blue block
+169 165 pick up the right block which color is blue
+169 165 pick up the right blue block
+210 109 pick up the purple block on the right
+210 109 pick up the right block which color is purple
+210 109 pick up the right purple block
+210 109 pick up the rightmost block
+210 109 pick up the rightmost block which color is purple
+210 109 pick up the rightmost purple block
+210 109 pick up the upper right purple block
+31 143 pick up the green block
+31 143 pick up the green block on the left
+31 143 pick up the left block which color is green
+31 143 pick up the left green block
+31 143 pick up the left middle block
+38 65 pick up the block at the top
+38 65 pick up the block at the upper left corner
+38 65 pick up the block on the upper left
+38 65 pick up the red block
+38 65 pick up the red block at the top
+38 65 pick up the red block at the upper left corner
+38 65 pick up the red block on the upper left
+38 65 pick up the top block
+38 65 pick up the top block which color is red
+38 65 pick up the top red block
+38 65 pick up the upper block which color is red
+38 65 pick up the upper left block
+38 65 pick up the upper left block which color is red
+38 65 pick up the upper left red block
+38 65 pick up the upper red block
+42 189 pick up the bottom block which color is purple
+42 189 pick up the bottom purple block
+42 189 pick up the left block which color is purple
+42 189 pick up the left purple block
+42 189 pick up the lower block which color is purple
+42 189 pick up the lower left block which color is purple
+42 189 pick up the lower left purple block
+42 189 pick up the lower purple block
+42 189 pick up the purple block at the bottom
+42 189 pick up the purple block at the lower left corner
+42 189 pick up the purple block on the left
+42 189 pick up the purple block on the lower left
+78 143 pick up the block between the blue block and the green block
+78 143 pick up the block between the green block and the blue block
+78 143 pick up the block just next to the green block
+78 143 pick up the block next to the green block
+78 143 pick up the left block which color is yellow
+78 143 pick up the left yellow block
+78 143 pick up the yellow block
+78 143 pick up the yellow block between the blue block and the green block
+78 143 pick up the yellow block between the green block and the blue block
+78 143 pick up the yellow block just next to the green block
+78 143 pick up the yellow block next to the green block
+78 143 pick up the yellow block on the left

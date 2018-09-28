@@ -1,0 +1,55 @@
+107 163 pick up the blue block
+161 35 pick up the purple block
+161 35 pick up the purple block at the top
+161 35 pick up the top block which color is purple
+161 35 pick up the top purple block
+161 35 pick up the upper block which color is purple
+161 35 pick up the upper purple block
+204 192 pick up the block at the bottom
+204 192 pick up the block at the bottom right
+204 192 pick up the block at the lower right corner
+204 192 pick up the block on the lower right
+204 192 pick up the block on the rightmost bottom
+204 192 pick up the bottom block which color is red
+204 192 pick up the bottom red block
+204 192 pick up the bottom right block
+204 192 pick up the bottom right block which color is red
+204 192 pick up the bottom right red block
+204 192 pick up the lower block which color is red
+204 192 pick up the lower red block
+204 192 pick up the lower right block
+204 192 pick up the lower right block which color is red
+204 192 pick up the lower right red block
+204 192 pick up the red block
+204 192 pick up the red block at the bottom
+204 192 pick up the red block at the bottom right
+204 192 pick up the red block at the lower right corner
+204 192 pick up the red block on the lower right
+204 192 pick up the red block on the right
+204 192 pick up the red block on the rightmost bottom
+204 192 pick up the right block which color is red
+204 192 pick up the right red block
+204 192 pick up the rightmost block
+204 192 pick up the rightmost block which color is red
+204 192 pick up the rightmost red block
+39 57 pick up the left block which color is yellow
+39 57 pick up the left yellow block
+39 57 pick up the leftmost block
+39 57 pick up the leftmost block which color is yellow
+39 57 pick up the leftmost yellow block
+39 57 pick up the top block which color is yellow
+39 57 pick up the top yellow block
+39 57 pick up the upper block which color is yellow
+39 57 pick up the upper left block which color is yellow
+39 57 pick up the upper left yellow block
+39 57 pick up the upper yellow block
+39 57 pick up the yellow block
+39 57 pick up the yellow block at the upper left corner
+39 57 pick up the yellow block on the left
+39 57 pick up the yellow block on the upper left
+94 52 pick up the block between the purple block and the yellow block
+94 52 pick up the block between the yellow block and the purple block
+94 52 pick up the green block
+94 52 pick up the green block between the purple block and the yellow block
+94 52 pick up the green block between the yellow block and the purple block
+94 52 pick up the upper middle block

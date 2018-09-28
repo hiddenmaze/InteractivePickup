@@ -1,0 +1,9 @@
+pick up the lower block
+pick up the lower yellow block
+pick up the yellow block
+pick up the block which color is green
+pick up the lower block which color is yellow
+pick up the block which color is yellow
+pick up the block at the bottom
+pick up the green block
+pick up the bottom block

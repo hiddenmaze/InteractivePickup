@@ -1,0 +1,2 @@
+39,129,pick up the lower block,purple,left
+187,123,pick up the lower block,red,right

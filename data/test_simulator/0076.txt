@@ -1,0 +1,18 @@
+38,86,pick up the block on the left,purple,upper
+42,140,pick up the block on the left,green,middle
+46,201,pick up the block on the left,blue,lower
+38,86,pick up the left block,purple,upper
+42,140,pick up the left block,green,middle
+46,202,pick up the left block,blue,lower
+38,86,pick up the leftmost block,purple,upper
+41,140,pick up the leftmost block,green,middle
+46,202,pick up the leftmost block,blue,lower
+47,203,pick up the lower block,blue,left
+124,210,pick up the lower block,yellow,middle
+204,192,pick up the lower block,red,right
+46,202,pick up the block at the bottom,blue,left
+124,210,pick up the block at the bottom,yellow,middle
+204,192,pick up the block at the bottom,red,right
+46,201,pick up the bottom block,blue,left
+124,210,pick up the bottom block,yellow,middle
+205,192,pick up the bottom block,red,right

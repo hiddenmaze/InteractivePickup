@@ -1,0 +1,50 @@
+107 72 pick up the top block which color is yellow
+107 72 pick up the top yellow block
+107 72 pick up the upper block which color is yellow
+107 72 pick up the upper yellow block
+107 72 pick up the yellow block
+107 72 pick up the yellow block at the top
+168 127 pick up the block on the right
+168 127 pick up the purple block
+168 127 pick up the purple block on the right
+168 127 pick up the right block
+168 127 pick up the right block which color is purple
+168 127 pick up the right purple block
+168 127 pick up the rightmost block
+168 127 pick up the rightmost block which color is purple
+168 127 pick up the rightmost purple block
+44 174 pick up the block at the bottom
+44 174 pick up the block at the bottom left
+44 174 pick up the block at the lower left corner
+44 174 pick up the block on the leftmost bottom
+44 174 pick up the block on the lower left
+44 174 pick up the bottom block
+44 174 pick up the bottom block which color is green
+44 174 pick up the bottom green block
+44 174 pick up the bottom left block
+44 174 pick up the bottom left block which color is green
+44 174 pick up the bottom left green block
+44 174 pick up the green block
+44 174 pick up the green block at the bottom
+44 174 pick up the green block at the bottom left
+44 174 pick up the green block at the lower left corner
+44 174 pick up the green block on the left
+44 174 pick up the green block on the leftmost bottom
+44 174 pick up the green block on the lower left
+44 174 pick up the left block which color is green
+44 174 pick up the left green block
+44 174 pick up the lower block
+44 174 pick up the lower block which color is green
+44 174 pick up the lower green block
+44 174 pick up the lower left block
+44 174 pick up the lower left block which color is green
+44 174 pick up the lower left green block
+47 77 pick up the blue block
+47 77 pick up the blue block at the upper left corner
+47 77 pick up the blue block on the upper left
+47 77 pick up the top block which color is blue
+47 77 pick up the top blue block
+47 77 pick up the upper block which color is blue
+47 77 pick up the upper blue block
+47 77 pick up the upper left block which color is blue
+47 77 pick up the upper left blue block

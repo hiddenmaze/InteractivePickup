@@ -1,0 +1,51 @@
+120 84 pick up the block between the red block and the yellow block
+120 84 pick up the block between the yellow block and the red block
+120 84 pick up the green block
+120 84 pick up the green block between the red block and the yellow block
+120 84 pick up the green block between the yellow block and the red block
+120 84 pick up the green block near the center
+120 84 pick up the upper block which color is green
+120 84 pick up the upper green block
+120 84 pick up the upper middle block
+159 196 pick up the block at the bottom
+159 196 pick up the bottom block
+159 196 pick up the bottom block which color is purple
+159 196 pick up the bottom purple block
+159 196 pick up the lower block which color is purple
+159 196 pick up the lower purple block
+159 196 pick up the purple block
+159 196 pick up the purple block at the bottom
+213 102 pick up the right block which color is yellow
+213 102 pick up the right yellow block
+213 102 pick up the rightmost block
+213 102 pick up the rightmost block which color is yellow
+213 102 pick up the rightmost yellow block
+213 102 pick up the yellow block
+213 102 pick up the yellow block on the right
+44 73 pick up the block at the top left
+44 73 pick up the block at the upper left corner
+44 73 pick up the block on the left
+44 73 pick up the block on the leftmost top
+44 73 pick up the block on the upper left
+44 73 pick up the left block
+44 73 pick up the left block which color is red
+44 73 pick up the left red block
+44 73 pick up the leftmost block
+44 73 pick up the leftmost block which color is red
+44 73 pick up the leftmost red block
+44 73 pick up the red block
+44 73 pick up the red block at the top
+44 73 pick up the red block at the top left
+44 73 pick up the red block at the upper left corner
+44 73 pick up the red block on the left
+44 73 pick up the red block on the leftmost top
+44 73 pick up the red block on the upper left
+44 73 pick up the top block which color is red
+44 73 pick up the top left block
+44 73 pick up the top left block which color is red
+44 73 pick up the top left red block
+44 73 pick up the top red block
+44 73 pick up the upper block which color is red
+44 73 pick up the upper left block which color is red
+44 73 pick up the upper left red block
+44 73 pick up the upper red block

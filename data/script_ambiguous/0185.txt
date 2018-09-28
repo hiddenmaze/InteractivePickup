@@ -1,0 +1,10 @@
+pick up the block on the right
+pick up the lower block
+pick up the upper purple block
+pick up the right block
+pick up the purple block
+pick up the upper block
+pick up the block at the top
+pick up the top block
+pick up the block which color is purple
+pick up the upper block which color is purple

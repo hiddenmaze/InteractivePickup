@@ -1,0 +1,49 @@
+187 122 pick up the block on the right
+187 122 pick up the red block
+187 122 pick up the red block on the right
+187 122 pick up the right block
+187 122 pick up the right block which color is red
+187 122 pick up the right red block
+187 122 pick up the rightmost block
+187 122 pick up the rightmost block which color is red
+187 122 pick up the rightmost red block
+44 206 pick up the block at the bottom
+44 206 pick up the block at the bottom left
+44 206 pick up the block at the lower left corner
+44 206 pick up the block on the left
+44 206 pick up the block on the leftmost bottom
+44 206 pick up the block on the lower left
+44 206 pick up the bottom block
+44 206 pick up the bottom block which color is purple
+44 206 pick up the bottom left block
+44 206 pick up the bottom left block which color is purple
+44 206 pick up the bottom left purple block
+44 206 pick up the bottom purple block
+44 206 pick up the left block
+44 206 pick up the left block which color is purple
+44 206 pick up the left purple block
+44 206 pick up the leftmost block
+44 206 pick up the leftmost block which color is purple
+44 206 pick up the leftmost purple block
+44 206 pick up the lower block
+44 206 pick up the lower block which color is purple
+44 206 pick up the lower left block
+44 206 pick up the lower left block which color is purple
+44 206 pick up the lower left purple block
+44 206 pick up the lower purple block
+44 206 pick up the purple block
+44 206 pick up the purple block at the bottom
+44 206 pick up the purple block at the bottom left
+44 206 pick up the purple block at the lower left corner
+44 206 pick up the purple block on the left
+44 206 pick up the purple block on the leftmost bottom
+44 206 pick up the purple block on the lower left
+95 44 pick up the block at the top
+95 44 pick up the green block
+95 44 pick up the green block at the top
+95 44 pick up the top block
+95 44 pick up the top block which color is green
+95 44 pick up the top green block
+95 44 pick up the upper block
+95 44 pick up the upper block which color is green
+95 44 pick up the upper green block

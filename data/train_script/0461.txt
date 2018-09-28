@@ -1,0 +1,36 @@
+128 120 pick up the right blue block
+160 152 pick up the red block on the right
+160 152 pick up the right block which color is red
+160 152 pick up the right red block
+160 152 pick up the rightmost block
+160 152 pick up the rightmost block which color is red
+160 152 pick up the rightmost red block
+29 195 pick up the block at the bottom left
+29 195 pick up the block at the lower left corner
+29 195 pick up the block on the leftmost bottom
+29 195 pick up the block on the lower left
+29 195 pick up the bottom block
+29 195 pick up the bottom block which color is red
+29 195 pick up the bottom left block
+29 195 pick up the bottom left block which color is red
+29 195 pick up the bottom left red block
+29 195 pick up the bottom red block
+29 195 pick up the left block which color is red
+29 195 pick up the left red block
+29 195 pick up the leftmost block
+29 195 pick up the leftmost block which color is red
+29 195 pick up the leftmost red block
+29 195 pick up the lower block which color is red
+29 195 pick up the lower left block
+29 195 pick up the lower left block which color is red
+29 195 pick up the lower left red block
+29 195 pick up the lower red block
+29 195 pick up the red block at the bottom
+29 195 pick up the red block at the bottom left
+29 195 pick up the red block at the lower left corner
+29 195 pick up the red block on the left
+29 195 pick up the red block on the leftmost bottom
+29 195 pick up the red block on the lower left
+61 145 pick up the blue block on the left
+61 145 pick up the left block which color is blue
+61 145 pick up the left blue block

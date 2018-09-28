@@ -1,0 +1,56 @@
+127 198 pick up the bottom block which color is purple
+127 198 pick up the bottom purple block
+127 198 pick up the lower block which color is purple
+127 198 pick up the lower purple block
+127 198 pick up the purple block
+127 198 pick up the purple block at the bottom
+127 198 pick up the purple block on the right
+127 198 pick up the right block which color is purple
+127 198 pick up the right purple block
+127 198 pick up the rightmost block
+127 198 pick up the rightmost block which color is purple
+127 198 pick up the rightmost purple block
+47 68 pick up the block at the top
+47 68 pick up the block at the top left
+47 68 pick up the block at the upper left corner
+47 68 pick up the block on the leftmost top
+47 68 pick up the block on the upper left
+47 68 pick up the left block which color is red
+47 68 pick up the left red block
+47 68 pick up the red block
+47 68 pick up the red block at the top
+47 68 pick up the red block at the top left
+47 68 pick up the red block at the upper left corner
+47 68 pick up the red block on the left
+47 68 pick up the red block on the leftmost top
+47 68 pick up the red block on the upper left
+47 68 pick up the top block
+47 68 pick up the top block which color is red
+47 68 pick up the top left block
+47 68 pick up the top left block which color is red
+47 68 pick up the top left red block
+47 68 pick up the top red block
+47 68 pick up the upper block which color is red
+47 68 pick up the upper left block
+47 68 pick up the upper left block which color is red
+47 68 pick up the upper left red block
+47 68 pick up the upper red block
+60 192 pick up the block at the lower left corner
+60 192 pick up the blue block
+60 192 pick up the blue block at the lower left corner
+60 192 pick up the blue block on the left
+60 192 pick up the blue block on the lower left
+60 192 pick up the bottom block which color is blue
+60 192 pick up the bottom blue block
+60 192 pick up the left block which color is blue
+60 192 pick up the left blue block
+60 192 pick up the lower block which color is blue
+60 192 pick up the lower blue block
+60 192 pick up the lower left block which color is blue
+60 192 pick up the lower left blue block
+70 125 pick up the left block which color is yellow
+70 125 pick up the left center block
+70 125 pick up the left middle block
+70 125 pick up the left yellow block
+70 125 pick up the yellow block
+70 125 pick up the yellow block on the left

@@ -1,0 +1,17 @@
+128 117 pick up the upper block which color is blue
+128 117 pick up the upper blue block
+128 117 pick up the upper left blue block
+161 177 pick up the lower blue block
+161 177 pick up the lower right blue block
+175 135 pick up the green block on the right
+175 135 pick up the right block which color is green
+175 135 pick up the right green block
+175 135 pick up the rightmost green block
+30 163 pick up the block on the left
+30 163 pick up the green block on the left
+30 163 pick up the left block
+30 163 pick up the left block which color is green
+30 163 pick up the left green block
+30 163 pick up the leftmost block
+30 163 pick up the leftmost block which color is green
+30 163 pick up the leftmost green block

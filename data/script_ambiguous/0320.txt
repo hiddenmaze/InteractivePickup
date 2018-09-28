@@ -1,0 +1,6 @@
+pick up the block between two purple blocks
+pick up the block which color is green
+pick up the block between purple blocks
+pick up the purple block
+pick up the block which color is purple
+pick up the green block

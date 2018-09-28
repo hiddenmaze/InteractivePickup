@@ -1,0 +1,25 @@
+163 155 pick up the upper red block
+176 227 pick up the block at the bottom
+176 227 pick up the bottom block
+176 227 pick up the bottom block which color is red
+176 227 pick up the bottom red block
+176 227 pick up the lower red block
+176 227 pick up the red block at the bottom
+36 187 pick up the block at the lower left corner
+36 187 pick up the block on the lower left
+36 187 pick up the blue block at the lower left corner
+36 187 pick up the bottom blue block
+36 187 pick up the lower blue block
+36 187 pick up the lower left block
+56 79 pick up the block at the top
+56 79 pick up the block at the upper left corner
+56 79 pick up the block on the upper left
+56 79 pick up the blue block at the top
+56 79 pick up the blue block at the upper left corner
+56 79 pick up the blue block on the upper left
+56 79 pick up the top block
+56 79 pick up the top block which color is blue
+56 79 pick up the top blue block
+56 79 pick up the upper block which color is blue
+56 79 pick up the upper blue block
+56 79 pick up the upper left block

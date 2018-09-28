@@ -1,0 +1,33 @@
+113 110 pick up the left block which color is red
+113 110 pick up the left red block
+113 110 pick up the leftmost block
+113 110 pick up the leftmost block which color is red
+113 110 pick up the leftmost red block
+113 110 pick up the red block near the center
+113 110 pick up the red block on the left
+113 110 pick up the upper left red block
+113 110 pick up the upper red block
+153 191 pick up the block at the bottom
+153 191 pick up the bottom block
+153 191 pick up the bottom block which color is red
+153 191 pick up the bottom red block
+153 191 pick up the lower block
+153 191 pick up the lower block which color is red
+153 191 pick up the lower red block
+153 191 pick up the red block at the bottom
+191 114 pick up the lower purple block
+198 50 pick up the block at the top
+198 50 pick up the block at the top right
+198 50 pick up the block at the upper right corner
+198 50 pick up the block on the upper right
+198 50 pick up the purple block at the top
+198 50 pick up the purple block at the top right
+198 50 pick up the purple block at the upper right corner
+198 50 pick up the top block
+198 50 pick up the top block which color is purple
+198 50 pick up the top purple block
+198 50 pick up the top right block
+198 50 pick up the top right block which color is purple
+198 50 pick up the upper block which color is purple
+198 50 pick up the upper purple block
+198 50 pick up the upper right block

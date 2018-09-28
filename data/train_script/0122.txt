@@ -1,0 +1,34 @@
+131 61 pick up the red block
+131 61 pick up the red block at the top
+131 61 pick up the top block which color is red
+131 61 pick up the top red block
+131 61 pick up the upper block which color is red
+131 61 pick up the upper red block
+198 100 pick up the right block which color is yellow
+198 100 pick up the right yellow block
+198 100 pick up the rightmost block
+198 100 pick up the rightmost block which color is yellow
+198 100 pick up the rightmost yellow block
+198 100 pick up the yellow block
+198 100 pick up the yellow block on the right
+34 173 pick up the bottom block which color is purple
+34 173 pick up the bottom left block which color is purple
+34 173 pick up the bottom left purple block
+34 173 pick up the bottom purple block
+34 173 pick up the left block which color is purple
+34 173 pick up the left purple block
+34 173 pick up the lower block which color is purple
+34 173 pick up the lower left block which color is purple
+34 173 pick up the lower left purple block
+34 173 pick up the lower purple block
+34 173 pick up the purple block
+34 173 pick up the purple block at the bottom
+34 173 pick up the purple block at the bottom left
+34 173 pick up the purple block on the left
+34 173 pick up the purple block on the lower left
+39 106 pick up the blue block
+39 106 pick up the blue block on the left
+39 106 pick up the left block which color is blue
+39 106 pick up the left blue block
+74 76 pick up the upper green block
+85 146 pick up the lower green block

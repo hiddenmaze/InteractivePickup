@@ -1,0 +1,21 @@
+103 67 pick up the block at the top
+103 67 pick up the top block which color is yellow
+103 67 pick up the top right yellow block
+103 67 pick up the top yellow block
+103 67 pick up the upper yellow block
+103 67 pick up the yellow block at the top
+29 116 pick up the upper blue block
+49 200 pick up the block at the bottom
+49 200 pick up the block at the lower left corner
+49 200 pick up the block on the lower left
+49 200 pick up the blue block at the bottom
+49 200 pick up the blue block at the lower left corner
+49 200 pick up the bottom block
+49 200 pick up the bottom block which color is blue
+49 200 pick up the bottom blue block
+49 200 pick up the lower block which color is blue
+49 200 pick up the lower blue block
+49 200 pick up the lower left block
+49 200 pick up the lower left block which color is blue
+85 107 pick up the lower left yellow block
+85 107 pick up the lower yellow block

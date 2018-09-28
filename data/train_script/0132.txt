@@ -1,0 +1,63 @@
+175 97 pick up the green block on the right
+175 97 pick up the right block which color is green
+175 97 pick up the right green block
+208 34 pick up the block at the top
+208 34 pick up the block at the top right
+208 34 pick up the block at the upper right corner
+208 34 pick up the block on the rightmost top
+208 34 pick up the right block which color is yellow
+208 34 pick up the right yellow block
+208 34 pick up the rightmost block
+208 34 pick up the rightmost block which color is yellow
+208 34 pick up the rightmost yellow block
+208 34 pick up the top block
+208 34 pick up the top block which color is yellow
+208 34 pick up the top right block
+208 34 pick up the top right block which color is yellow
+208 34 pick up the top right yellow block
+208 34 pick up the top yellow block
+208 34 pick up the upper block which color is yellow
+208 34 pick up the upper right block which color is yellow
+208 34 pick up the upper right yellow block
+208 34 pick up the upper yellow block
+208 34 pick up the yellow block
+208 34 pick up the yellow block at the top
+208 34 pick up the yellow block at the top right
+208 34 pick up the yellow block at the upper right corner
+208 34 pick up the yellow block on the right
+208 34 pick up the yellow block on the rightmost top
+208 34 pick up the yellow block on the upper right
+38 68 pick up the left block which color is purple
+38 68 pick up the left purple block
+38 68 pick up the purple block
+38 68 pick up the purple block on the left
+38 68 pick up the purple block on the upper left
+38 68 pick up the upper block which color is purple
+38 68 pick up the upper left block which color is purple
+38 68 pick up the upper left purple block
+38 68 pick up the upper purple block
+42 173 pick up the block at the bottom
+42 173 pick up the bottom block
+42 173 pick up the bottom block which color is red
+42 173 pick up the bottom red block
+42 173 pick up the left block which color is red
+42 173 pick up the left red block
+42 173 pick up the lower block which color is red
+42 173 pick up the lower left block
+42 173 pick up the lower left block which color is red
+42 173 pick up the lower left red block
+42 173 pick up the lower red block
+42 173 pick up the red block
+42 173 pick up the red block at the bottom
+42 173 pick up the red block on the left
+42 173 pick up the red block on the lower left
+82 81 pick up the block just next to the purple block
+82 81 pick up the green block just next to the purple block
+82 81 pick up the green block on the left
+82 81 pick up the left green block
+93 127 pick up the block in the middle which color is blue
+93 127 pick up the blue block
+93 127 pick up the blue block in the middle
+93 127 pick up the middle block which color is blue
+93 127 pick up the middle blue block
+93 127 pick up the middle blue block which color is blue

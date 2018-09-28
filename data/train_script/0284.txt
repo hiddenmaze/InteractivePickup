@@ -1,0 +1,47 @@
+105 72 pick up the block at the top
+105 72 pick up the top block
+105 72 pick up the top block which color is yellow
+105 72 pick up the top yellow block
+105 72 pick up the upper block
+105 72 pick up the upper block which color is yellow
+105 72 pick up the upper yellow block
+105 72 pick up the yellow block
+105 72 pick up the yellow block at the top
+127 171 pick up the blue block
+127 171 pick up the lower block which color is blue
+127 171 pick up the lower blue block
+127 171 pick up the lower right blue block
+169 127 pick up the purple block
+169 127 pick up the purple block on the right
+169 127 pick up the right block which color is purple
+169 127 pick up the right purple block
+169 127 pick up the rightmost block
+169 127 pick up the rightmost block which color is purple
+169 127 pick up the rightmost purple block
+47 173 pick up the block at the bottom left
+47 173 pick up the block at the lower left corner
+47 173 pick up the block on the left
+47 173 pick up the block on the leftmost bottom
+47 173 pick up the block on the lower left
+47 173 pick up the bottom block which color is green
+47 173 pick up the bottom green block
+47 173 pick up the bottom left block
+47 173 pick up the bottom left block which color is green
+47 173 pick up the bottom left green block
+47 173 pick up the green block
+47 173 pick up the green block at the bottom
+47 173 pick up the green block at the bottom left
+47 173 pick up the green block at the lower left corner
+47 173 pick up the green block on the left
+47 173 pick up the green block on the leftmost bottom
+47 173 pick up the green block on the lower left
+47 173 pick up the left block which color is green
+47 173 pick up the left green block
+47 173 pick up the leftmost block
+47 173 pick up the leftmost block which color is green
+47 173 pick up the leftmost green block
+47 173 pick up the lower block which color is green
+47 173 pick up the lower green block
+47 173 pick up the lower left block
+47 173 pick up the lower left block which color is green
+47 173 pick up the lower left green block

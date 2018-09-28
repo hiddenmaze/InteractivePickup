@@ -1,0 +1,67 @@
+112 129 pick up the block between blue blocks
+112 129 pick up the block between two blue blocks
+112 129 pick up the left purple block
+112 129 pick up the lower left purple block
+112 129 pick up the lower purple block
+112 129 pick up the middle purple block
+112 129 pick up the purple block between blue block
+112 129 pick up the purple block between two blue block
+169 85 pick up the block between purple block
+169 85 pick up the block between two purple block
+169 85 pick up the blue block between purple blocks
+169 85 pick up the blue block between two purple blocks
+169 85 pick up the blue block on the right
+169 85 pick up the middle blue block
+169 85 pick up the right block which color is blue
+169 85 pick up the right blue block
+169 85 pick up the upper blue block
+169 85 pick up the upper right blue block
+202 50 pick up the block at the top
+202 50 pick up the block at the top right
+202 50 pick up the block on the rightmost top
+202 50 pick up the purple block at the top
+202 50 pick up the purple block at the top right
+202 50 pick up the purple block at the upper right corner
+202 50 pick up the purple block on the right
+202 50 pick up the purple block on the rightmost top
+202 50 pick up the purple block on the upper right
+202 50 pick up the right block which color is purple
+202 50 pick up the right purple block
+202 50 pick up the rightmost block
+202 50 pick up the rightmost block which color is purple
+202 50 pick up the rightmost purple block
+202 50 pick up the top block
+202 50 pick up the top block which color is purple
+202 50 pick up the top purple block
+202 50 pick up the top right block
+202 50 pick up the top right block which color is purple
+202 50 pick up the top right purple block
+202 50 pick up the upper block which color is purple
+202 50 pick up the upper purple block
+202 50 pick up the upper right block which color is purple
+202 50 pick up the upper right purple block
+64 183 pick up the block at the bottom
+64 183 pick up the block at the bottom left
+64 183 pick up the block at the lower left corner
+64 183 pick up the block on the leftmost bottom
+64 183 pick up the blue block at the bottom
+64 183 pick up the blue block at the bottom left
+64 183 pick up the blue block at the lower left corner
+64 183 pick up the blue block on the left
+64 183 pick up the blue block on the leftmost bottom
+64 183 pick up the blue block on the lower left
+64 183 pick up the bottom block
+64 183 pick up the bottom block which color is blue
+64 183 pick up the bottom blue block
+64 183 pick up the bottom left block
+64 183 pick up the bottom left block which color is blue
+64 183 pick up the bottom left blue block
+64 183 pick up the left block which color is blue
+64 183 pick up the left blue block
+64 183 pick up the leftmost block
+64 183 pick up the leftmost block which color is blue
+64 183 pick up the leftmost blue block
+64 183 pick up the lower block which color is blue
+64 183 pick up the lower blue block
+64 183 pick up the lower left block which color is blue
+64 183 pick up the lower left blue block

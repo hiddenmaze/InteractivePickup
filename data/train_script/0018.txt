@@ -1,0 +1,67 @@
+151 123 pick up the block between the blue block and the yellow block
+151 123 pick up the block between the yellow block and the blue block
+151 123 pick up the block in the middle
+151 123 pick up the middle block
+151 123 pick up the middle purple block
+151 123 pick up the purple block
+151 123 pick up the purple block between the blue block and the yellow block
+151 123 pick up the purple block between the yellow block and the blue block
+151 123 pick up the purple block in the middle
+217 82 pick up the block at the top
+217 82 pick up the block at the top right
+217 82 pick up the block on the right
+217 82 pick up the block on the rightmost top
+217 82 pick up the block on the upper right
+217 82 pick up the right block
+217 82 pick up the right block which color is yellow
+217 82 pick up the right yellow block
+217 82 pick up the rightmost block
+217 82 pick up the rightmost block which color is yellow
+217 82 pick up the rightmost yellow block
+217 82 pick up the top block
+217 82 pick up the top block which color is yellow
+217 82 pick up the top right block
+217 82 pick up the top right block which color is yellow
+217 82 pick up the top right yellow block
+217 82 pick up the top yellow block
+217 82 pick up the upper block
+217 82 pick up the upper block which color is yellow
+217 82 pick up the upper right block
+217 82 pick up the upper right block which color is yellow
+217 82 pick up the upper right yellow block
+217 82 pick up the upper yellow block
+217 82 pick up the yellow block
+217 82 pick up the yellow block at the top
+217 82 pick up the yellow block at the top right
+217 82 pick up the yellow block on the right
+217 82 pick up the yellow block on the rightmost top
+217 82 pick up the yellow block on the upper right
+73 188 pick up the block at the bottom
+73 188 pick up the block at the bottom left
+73 188 pick up the block on the left
+73 188 pick up the block on the leftmost bottom
+73 188 pick up the block on the lower left
+73 188 pick up the blue block
+73 188 pick up the blue block at the bottom
+73 188 pick up the blue block at the bottom left
+73 188 pick up the blue block on the left
+73 188 pick up the blue block on the leftmost bottom
+73 188 pick up the blue block on the lower left
+73 188 pick up the bottom block
+73 188 pick up the bottom block which color is blue
+73 188 pick up the bottom blue block
+73 188 pick up the bottom left block
+73 188 pick up the bottom left block which color is blue
+73 188 pick up the bottom left blue block
+73 188 pick up the left block
+73 188 pick up the left block which color is blue
+73 188 pick up the left blue block
+73 188 pick up the leftmost block
+73 188 pick up the leftmost block which color is blue
+73 188 pick up the leftmost blue block
+73 188 pick up the lower block
+73 188 pick up the lower block which color is blue
+73 188 pick up the lower blue block
+73 188 pick up the lower left block
+73 188 pick up the lower left block which color is blue
+73 188 pick up the lower left blue block

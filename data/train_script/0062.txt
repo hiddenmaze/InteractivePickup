@@ -1,0 +1,68 @@
+157 186 pick up lower middle block
+157 186 pick up the block between the blue block and the green block
+157 186 pick up the block between the green block and the blue block
+157 186 pick up the bottom block which color is red
+157 186 pick up the bottom red block
+157 186 pick up the lower block which color is red
+157 186 pick up the lower center block
+157 186 pick up the lower middle block
+157 186 pick up the lower red block
+157 186 pick up the red block
+157 186 pick up the red block at the bottom
+157 186 pick up the red block between the blue block and the green block
+157 186 pick up the red block between the green block and the blue block
+194 85 pick up the block at the top
+194 85 pick up the right block which color is yellow
+194 85 pick up the right yellow block
+194 85 pick up the top block
+194 85 pick up the top block which color is yellow
+194 85 pick up the top yellow block
+194 85 pick up the upper block
+194 85 pick up the upper block which color is yellow
+194 85 pick up the upper yellow block
+194 85 pick up the yellow block
+194 85 pick up the yellow block at the top
+194 85 pick up the yellow block on the right
+230 168 pick up the block on the lower right
+230 168 pick up the blue block
+230 168 pick up the blue block on the lower right
+230 168 pick up the blue block on the right
+230 168 pick up the bottom block which color is blue
+230 168 pick up the bottom blue block
+230 168 pick up the lower block which color is blue
+230 168 pick up the lower blue block
+230 168 pick up the lower right block
+230 168 pick up the lower right block which color is blue
+230 168 pick up the lower right blue block
+230 168 pick up the right block which color is blue
+230 168 pick up the right blue block
+230 168 pick up the rightmost block
+230 168 pick up the rightmost block which color is blue
+230 168 pick up the rightmost blue block
+52 186 pick up the block at the bottom left
+52 186 pick up the block at the lower left corner
+52 186 pick up the block on the left
+52 186 pick up the block on the leftmost bottom
+52 186 pick up the block on the lower left
+52 186 pick up the bottom block which color is green
+52 186 pick up the bottom green block
+52 186 pick up the bottom left block
+52 186 pick up the bottom left block which color is green
+52 186 pick up the bottom left green block
+52 186 pick up the green block
+52 186 pick up the green block at the bottom
+52 186 pick up the green block at the bottom left
+52 186 pick up the green block at the lower left corner
+52 186 pick up the green block on the left
+52 186 pick up the green block on the leftmost bottom
+52 186 pick up the green block on the lower left
+52 186 pick up the left block which color is green
+52 186 pick up the left green block
+52 186 pick up the leftmost block
+52 186 pick up the leftmost block which color is green
+52 186 pick up the leftmost green block
+52 186 pick up the lower block which color is green
+52 186 pick up the lower green block
+52 186 pick up the lower left block
+52 186 pick up the lower left block which color is green
+52 186 pick up the lower left green block

@@ -1,0 +1,20 @@
+pick up the block on the right
+pick up the block on the left
+pick up the yellow block
+pick up the left block
+pick up the blue block
+pick up the left block which color is blue
+pick up the right yellow block
+pick up the rightmost block
+pick up the block which color is yellow
+pick up the left blue block
+pick up the upper block
+pick up the right block which color is yellow
+pick up the leftmost block
+pick up the right block
+pick up the lower block
+pick up the block on the left which color is blue
+pick up the block which color is blue
+pick up the block at the bottom
+pick up the block on the right which color is yellow
+pick up the bottom block

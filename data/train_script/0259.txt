@@ -1,0 +1,56 @@
+106 222 pick up the block at the bottom
+106 222 pick up the bottom block
+106 222 pick up the bottom block which color is green
+106 222 pick up the bottom green block
+106 222 pick up the green block
+106 222 pick up the green block at the bottom
+106 222 pick up the green block on the lower left
+106 222 pick up the lower block which color is green
+106 222 pick up the lower green block
+106 222 pick up the lower left block
+106 222 pick up the lower left block which color is green
+106 222 pick up the lower left green block
+214 103 pick up the right block which color is yellow
+214 103 pick up the right yellow block
+214 103 pick up the yellow block
+214 103 pick up the yellow block on the right
+230 178 pick up the block at the lower right corner
+230 178 pick up the block on the lower right
+230 178 pick up the bottom block which color is red
+230 178 pick up the bottom red block
+230 178 pick up the lower block which color is red
+230 178 pick up the lower red block
+230 178 pick up the lower right block
+230 178 pick up the lower right block which color is red
+230 178 pick up the lower right red block
+230 178 pick up the red block
+230 178 pick up the red block at the lower right corner
+230 178 pick up the red block on the lower right
+230 178 pick up the red block on the right
+230 178 pick up the right block which color is red
+230 178 pick up the right red block
+64 44 pick up the block at the top
+64 44 pick up the block at the top left
+64 44 pick up the block at the upper left corner
+64 44 pick up the block on the leftmost top
+64 44 pick up the block on the upper left
+64 44 pick up the left block which color is purple
+64 44 pick up the left purple block
+64 44 pick up the purple block
+64 44 pick up the purple block at the top
+64 44 pick up the purple block at the top left
+64 44 pick up the purple block at the upper left corner
+64 44 pick up the purple block on the left
+64 44 pick up the purple block on the leftmost top
+64 44 pick up the purple block on the upper left
+64 44 pick up the top block
+64 44 pick up the top block which color is purple
+64 44 pick up the top left block
+64 44 pick up the top left block which color is purple
+64 44 pick up the top left purple block
+64 44 pick up the top purple block
+64 44 pick up the upper block which color is purple
+64 44 pick up the upper left block
+64 44 pick up the upper left block which color is purple
+64 44 pick up the upper left purple block
+64 44 pick up the upper purple block

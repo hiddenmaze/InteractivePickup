@@ -1,0 +1,11 @@
+140,113,pick up the blue block,blue,upper upperright right
+93,191,pick up the blue block,blue,lower lowerleft left
+27,178,pick up the block which color is yellow,yellow,left
+157,204,pick up the block which color is yellow,yellow,right
+140,113,pick up the block which color is blue,blue,upper upperright right
+93,192,pick up the block which color is blue,blue,lower lowerleft left
+26,179,pick up the lower block,yellow,left
+93,193,pick up the lower block,blue,middle
+157,206,pick up the lower block,yellow,right
+26,178,pick up the yellow block,yellow,left
+157,205,pick up the yellow block,yellow,right

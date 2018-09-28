@@ -1,0 +1,46 @@
+110 132 pick up the block among other blocks
+110 132 pick up the block among others
+110 132 pick up the block between other blocks
+110 132 pick up the block between others
+110 132 pick up the block near the center
+110 132 pick up the left middle block
+110 132 pick up the upper yellow block
+110 132 pick up the yellow block among other blocks
+110 132 pick up the yellow block among others
+110 132 pick up the yellow block between other blocks
+110 132 pick up the yellow block between others
+110 132 pick up the yellow block near the center
+199 136 pick up the block on the right
+199 136 pick up the green block on the right
+199 136 pick up the lower green block
+199 136 pick up the lower right green block
+199 136 pick up the right block
+199 136 pick up the right block which color is green
+199 136 pick up the right green block
+199 136 pick up the rightmost block
+199 136 pick up the rightmost block which color is green
+199 136 pick up the rightmost green block
+86 61 pick up the block at the top
+86 61 pick up the green block at the top
+86 61 pick up the green block at the top left
+86 61 pick up the green block on the left
+86 61 pick up the green block on the leftmost top
+86 61 pick up the left block which color is green
+86 61 pick up the left green block
+86 61 pick up the leftmost green block
+86 61 pick up the top block
+86 61 pick up the top block which color is green
+86 61 pick up the top green block
+86 61 pick up the top left block
+86 61 pick up the top left block which color is green
+86 61 pick up the top left green block
+86 61 pick up the upper block which color is green
+86 61 pick up the upper green block
+86 61 pick up the upper left green block
+96 220 pick up the block at the bottom
+96 220 pick up the bottom block
+96 220 pick up the bottom block which color is yellow
+96 220 pick up the bottom yellow block
+96 220 pick up the lower block which color is yellow
+96 220 pick up the lower yellow block
+96 220 pick up the yellow block at the bottom

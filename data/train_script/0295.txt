@@ -1,0 +1,59 @@
+184 120 pick up the right block which color is yellow
+184 120 pick up the right yellow block
+184 120 pick up the yellow block
+184 120 pick up the yellow block on the right
+208 178 pick up the block at the lower right corner
+208 178 pick up the block on the lower right
+208 178 pick up the bottom block which color is green
+208 178 pick up the bottom green block
+208 178 pick up the green block
+208 178 pick up the green block at the lower right corner
+208 178 pick up the green block on the lower right
+208 178 pick up the green block on the right
+208 178 pick up the lower block which color is green
+208 178 pick up the lower green block
+208 178 pick up the lower right block
+208 178 pick up the lower right block which color is green
+208 178 pick up the lower right green block
+208 178 pick up the right block which color is green
+208 178 pick up the right green block
+54 52 pick up the block at the top
+54 52 pick up the block at the top left
+54 52 pick up the block at the upper left corner
+54 52 pick up the block on the leftmost top
+54 52 pick up the block on the upper left
+54 52 pick up the blue block
+54 52 pick up the blue block at the top
+54 52 pick up the blue block at the top left
+54 52 pick up the blue block at the upper left corner
+54 52 pick up the blue block on the left
+54 52 pick up the blue block on the leftmost top
+54 52 pick up the blue block on the upper left
+54 52 pick up the left block which color is blue
+54 52 pick up the left blue block
+54 52 pick up the top block
+54 52 pick up the top block which color is blue
+54 52 pick up the top blue block
+54 52 pick up the top left block which color is blue
+54 52 pick up the top left blue block
+54 52 pick up the upper block
+54 52 pick up the upper block which color is blue
+54 52 pick up the upper blue block
+54 52 pick up the upper left block
+54 52 pick up the upper left blue block
+65 187 pick up the block at the lower left corner
+65 187 pick up the block on the lower left
+65 187 pick up the bottom block which color is purple
+65 187 pick up the bottom purple block
+65 187 pick up the left block which color is purple
+65 187 pick up the left purple block
+65 187 pick up the lower block which color is purple
+65 187 pick up the lower left block
+65 187 pick up the lower left block which color is purple
+65 187 pick up the lower left purple block
+65 187 pick up the lower purple block
+65 187 pick up the purple block
+65 187 pick up the purple block at the bottom
+65 187 pick up the purple block at the lower left corner
+65 187 pick up the purple block on the left
+65 187 pick up the purple block on the lower left

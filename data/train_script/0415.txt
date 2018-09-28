@@ -1,0 +1,46 @@
+110 141 pick up the block between green blocks
+110 141 pick up the block between two green blocks
+110 141 pick up the block near the center
+110 141 pick up the red block between green blocks
+110 141 pick up the red block between two green blocks
+110 141 pick up the red block in the middle
+110 141 pick up the red block near the center
+131 65 pick up the block at the top
+131 65 pick up the green block at the top
+131 65 pick up the top block
+131 65 pick up the top block which color is green
+131 65 pick up the top green block
+131 65 pick up the top right green block
+131 65 pick up the upper block which color is green
+131 65 pick up the upper green block
+35 229 pick up the block at the bottom
+35 229 pick up the block at the bottom left
+35 229 pick up the block at the lower left corner
+35 229 pick up the block on the leftmost bottom
+35 229 pick up the bottom block
+35 229 pick up the bottom block which color is red
+35 229 pick up the bottom left block
+35 229 pick up the bottom left block which color is red
+35 229 pick up the bottom left red block
+35 229 pick up the bottom red block
+35 229 pick up the left block which color is red
+35 229 pick up the left red block
+35 229 pick up the leftmost block
+35 229 pick up the leftmost block which color is red
+35 229 pick up the leftmost red block
+35 229 pick up the lower block which color is red
+35 229 pick up the lower left red block
+35 229 pick up the lower red block
+35 229 pick up the red block at the bottom
+35 229 pick up the red block at the lower left corner
+35 229 pick up the red block on the leftmost bottom
+64 169 pick up the block between red blocks
+64 169 pick up the block between two red blocks
+64 169 pick up the bottom green block
+64 169 pick up the green block between red blocks
+64 169 pick up the green block between two red blocks
+64 169 pick up the green block on the left
+64 169 pick up the left block which color is green
+64 169 pick up the left green block
+64 169 pick up the lower green block
+64 169 pick up the lower left green block

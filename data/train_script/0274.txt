@@ -1,0 +1,62 @@
+101 193 pick up the block at the bottom left
+101 193 pick up the block on the lower left
+101 193 pick up the block on the lower left which color is red
+101 193 pick up the bottom block which color is red
+101 193 pick up the bottom left block
+101 193 pick up the bottom left block which color is red
+101 193 pick up the bottom left red block
+101 193 pick up the bottom red block
+101 193 pick up the left block which color is red
+101 193 pick up the left red block
+101 193 pick up the lower block which color is red
+101 193 pick up the lower left block
+101 193 pick up the lower left block which color is red
+101 193 pick up the lower left red block
+101 193 pick up the lower red block
+101 193 pick up the red block
+101 193 pick up the red block at the bottom
+101 193 pick up the red block at the bottom left
+101 193 pick up the red block on the left
+101 193 pick up the red block on the lower left
+106 71 pick up the block on the upper left
+106 71 pick up the block on the upper left which color is yellow
+106 71 pick up the top block which color is yellow
+106 71 pick up the top yellow block
+106 71 pick up the upper block which color is yellow
+106 71 pick up the upper left block
+106 71 pick up the upper left block which color is yellow
+106 71 pick up the upper left yellow block
+106 71 pick up the upper yellow block
+106 71 pick up the yellow block
+106 71 pick up the yellow block at the top
+106 71 pick up the yellow block on the upper left
+185 175 pick up the block at the lower right corner
+185 175 pick up the block on the lower right
+185 175 pick up the bottom block which color is green
+185 175 pick up the bottom green block
+185 175 pick up the green block
+185 175 pick up the green block at the lower right corner
+185 175 pick up the green block on the lower right
+185 175 pick up the green block on the right
+185 175 pick up the lower block which color is green
+185 175 pick up the lower green block
+185 175 pick up the lower right block
+185 175 pick up the lower right block which color is green
+185 175 pick up the lower right green block
+185 175 pick up the right block which color is green
+185 175 pick up the right green block
+200 74 pick up the block at the upper right corner
+200 74 pick up the block on the upper right
+200 74 pick up the blue block
+200 74 pick up the blue block at the upper right corner
+200 74 pick up the blue block on the right
+200 74 pick up the blue block on the upper right
+200 74 pick up the right block which color is blue
+200 74 pick up the right blue block
+200 74 pick up the top block which color is blue
+200 74 pick up the top blue block
+200 74 pick up the upper block which color is blue
+200 74 pick up the upper blue block
+200 74 pick up the upper right block
+200 74 pick up the upper right block which color is blue
+200 74 pick up the upper right blue block

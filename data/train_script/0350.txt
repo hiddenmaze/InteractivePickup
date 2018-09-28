@@ -1,0 +1,22 @@
+103 225 pick up the block at the bottom
+103 225 pick up the bottom block which color is green
+103 225 pick up the bottom green block
+103 225 pick up the green block at the bottom
+103 225 pick up the lower block which color is green
+103 225 pick up the lower green block
+107 126 pick up the green block at the top
+107 126 pick up the top block which color is green
+107 126 pick up the top green block
+107 126 pick up the upper block which color is green
+107 126 pick up the upper green block
+137 203 pick up the left blue block
+137 203 pick up the lower blue block
+137 203 pick up the lower left blue block
+188 149 pick up the blue block on the right
+188 149 pick up the right block which color is blue
+188 149 pick up the right blue block
+188 149 pick up the rightmost block
+188 149 pick up the rightmost block which color is blue
+188 149 pick up the rightmost blue block
+188 149 pick up the upper blue block
+188 149 pick up the upper right blue block

@@ -1,0 +1,48 @@
+116 197 pick up the lower blue block
+174 98 pick up the green block
+174 98 pick up the green block on the right
+174 98 pick up the right block which color is green
+174 98 pick up the right green block
+207 35 pick up the block at the top
+207 35 pick up the block at the upper right corner
+207 35 pick up the top block
+207 35 pick up the top block which color is yellow
+207 35 pick up the top yellow block
+207 35 pick up the upper block which color is yellow
+207 35 pick up the upper right block which color is yellow
+207 35 pick up the upper right yellow block
+207 35 pick up the upper yellow block
+207 35 pick up the yellow block
+207 35 pick up the yellow block at the top
+207 35 pick up the yellow block at the upper right corner
+207 35 pick up the yellow block on the upper right
+218 139 pick up the red block
+218 139 pick up the red block on the right
+218 139 pick up the right block which color is red
+218 139 pick up the right red block
+40 222 pick up the block at the bottom left
+40 222 pick up the block at the lower left corner
+40 222 pick up the block on the leftmost bottom
+40 222 pick up the block on the lower left
+40 222 pick up the bottom block which color is purple
+40 222 pick up the bottom left block
+40 222 pick up the bottom left block which color is purple
+40 222 pick up the bottom left purple block
+40 222 pick up the bottom purple block
+40 222 pick up the left block which color is purple
+40 222 pick up the left purple block
+40 222 pick up the leftmost block
+40 222 pick up the leftmost block which color is purple
+40 222 pick up the leftmost purple block
+40 222 pick up the lower block which color is purple
+40 222 pick up the lower left block which color is purple
+40 222 pick up the lower left purple block
+40 222 pick up the lower purple block
+40 222 pick up the purple block
+40 222 pick up the purple block at the bottom
+40 222 pick up the purple block at the bottom left
+40 222 pick up the purple block at the lower left corner
+40 222 pick up the purple block on the left
+40 222 pick up the purple block on the leftmost bottom
+40 222 pick up the purple block on the lower left
+90 94 pick up the upper blue block

@@ -1,0 +1,37 @@
+108 123 pick up the block among other blocks
+108 123 pick up the block among others
+108 123 pick up the block between other blocks
+108 123 pick up the block between others
+108 123 pick up the green block among other blocks
+108 123 pick up the green block among others
+108 123 pick up the green block between other blocks
+108 123 pick up the green block between others
+108 123 pick up the green block near the center
+108 123 pick up the right green block
+188 146 pick up the block on the right
+188 146 pick up the blue block on the right
+188 146 pick up the bottom block which color is blue
+188 146 pick up the bottom blue block
+188 146 pick up the lower block which color is blue
+188 146 pick up the lower blue block
+188 146 pick up the lower right blue block
+188 146 pick up the right block
+188 146 pick up the right block which color is blue
+188 146 pick up the right blue block
+188 146 pick up the rightmost block
+188 146 pick up the rightmost block which color is blue
+188 146 pick up the rightmost blue block
+51 127 pick up the left block which color is green
+51 127 pick up the left green block
+51 127 pick up the leftmost green block
+71 94 pick up the block at the top
+71 94 pick up the blue block at the top
+71 94 pick up the blue block on the left
+71 94 pick up the left block which color is blue
+71 94 pick up the left blue block
+71 94 pick up the top block
+71 94 pick up the top block which color is blue
+71 94 pick up the top blue block
+71 94 pick up the upper block which color is blue
+71 94 pick up the upper blue block
+71 94 pick up the upper left blue block

@@ -1,0 +1,55 @@
+117 125 pick up the block at the center
+117 125 pick up the block at the center which color is yellow
+117 125 pick up the block between the green block and the purple block
+117 125 pick up the block between the purple block and the green block
+117 125 pick up the center block
+117 125 pick up the center block which color is yellow
+117 125 pick up the center yellow block
+117 125 pick up the upper center block
+117 125 pick up the upper middle block
+117 125 pick up the yellow block
+117 125 pick up the yellow block at the center
+117 125 pick up the yellow block between the green block and the purple block
+117 125 pick up the yellow block between the purple block and the green block
+117 125 pick up the yellow center block
+199 112 pick up the purple block
+199 112 pick up the purple block on the right
+199 112 pick up the right block which color is purple
+199 112 pick up the right purple block
+199 112 pick up the upper block which color is purple
+199 112 pick up the upper purple block
+204 192 pick up the block at the lower right corner
+204 192 pick up the block on the lower right
+204 192 pick up the bottom block which color is red
+204 192 pick up the bottom red block
+204 192 pick up the lower block which color is red
+204 192 pick up the lower red block
+204 192 pick up the lower right block
+204 192 pick up the lower right block which color is red
+204 192 pick up the lower right red block
+204 192 pick up the red block
+204 192 pick up the red block at the lower right corner
+204 192 pick up the red block on the lower right
+204 192 pick up the red block on the right
+204 192 pick up the right block which color is red
+204 192 pick up the right red block
+41 139 pick up the green block
+41 139 pick up the green block on the left
+41 139 pick up the left block which color is green
+41 139 pick up the left green block
+45 201 pick up the block at the lower left corner
+45 201 pick up the block on the lower left
+45 201 pick up the blue block
+45 201 pick up the blue block at the bottom
+45 201 pick up the blue block at the lower left corner
+45 201 pick up the blue block on the left
+45 201 pick up the blue block on the lower left
+45 201 pick up the bottom block which color is blue
+45 201 pick up the bottom blue block
+45 201 pick up the left block which color is blue
+45 201 pick up the left blue block
+45 201 pick up the lower block which color is blue
+45 201 pick up the lower blue block
+45 201 pick up the lower left block
+45 201 pick up the lower left block which color is blue
+45 201 pick up the lower left blue block

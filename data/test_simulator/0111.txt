@@ -1,0 +1,15 @@
+197,101,pick up the block on the right,yellow,upper
+210,190,pick up the block on the right,blue,lower
+29,116,pick up the upper yellow block,yellow,left
+197,101,pick up the upper yellow block,yellow,right
+28,117,pick up the yellow block,yellow,left
+197,101,pick up the yellow block,yellow,right
+198,101,pick up the right block,yellow,upper
+210,190,pick up the right block,blue,lower
+29,117,pick up the upper block,yellow,left
+107,95,pick up the upper block,purple,middle
+196,100,pick up the upper block,yellow,right
+28,117,pick up the block which color is yellow,yellow,left
+198,100,pick up the block which color is yellow,yellow,right
+28,116,pick up the upper block which color is yellow,yellow,left
+199,101,pick up the upper block which color is yellow,yellow,right

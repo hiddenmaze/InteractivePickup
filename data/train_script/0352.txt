@@ -1,0 +1,41 @@
+112 190 pick up the bottom block which color is green
+112 190 pick up the bottom green block
+112 190 pick up the green block at the bottom
+112 190 pick up the lower green block
+114 122 pick up the green block at the top
+114 122 pick up the top block which color is green
+114 122 pick up the top green block
+114 122 pick up the upper block which color is green
+114 122 pick up the upper green block
+168 192 pick up the block at the bottom right
+168 192 pick up the block at the lower right corner
+168 192 pick up the block on the lower right
+168 192 pick up the block on the rightmost bottom
+168 192 pick up the bottom block which color is red
+168 192 pick up the bottom red block
+168 192 pick up the bottom right block
+168 192 pick up the bottom right block which color is red
+168 192 pick up the bottom right red block
+168 192 pick up the lower block which color is red
+168 192 pick up the lower red block
+168 192 pick up the lower right block
+168 192 pick up the lower right block which color is red
+168 192 pick up the lower right red block
+168 192 pick up the red block at the bottom
+168 192 pick up the red block at the bottom right
+168 192 pick up the red block on the lower right
+168 192 pick up the red block on the right
+168 192 pick up the red block on the rightmost bottom
+168 192 pick up the right block which color is red
+168 192 pick up the right red block
+168 192 pick up the rightmost block
+168 192 pick up the rightmost block which color is red
+168 192 pick up the rightmost red block
+66 127 pick up the left block which color is red
+66 127 pick up the left red block
+66 127 pick up the leftmost block
+66 127 pick up the leftmost block which color is red
+66 127 pick up the leftmost red block
+66 127 pick up the red block on the left
+66 127 pick up the upper left red block
+66 127 pick up the upper red block

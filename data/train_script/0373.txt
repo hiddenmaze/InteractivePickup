@@ -1,0 +1,52 @@
+106 52 pick up the block between the right green block and the upper left red block
+106 52 pick up the block between the upper left red block and the right green block
+106 52 pick up the green block between the another green block and the upper left red block
+106 52 pick up the green block between the right green block and the upper left red block
+106 52 pick up the green block between the upper left red block and the another green block
+106 52 pick up the green block between the upper left red block and the right green block
+106 52 pick up the left green block
+106 52 pick up the upper left green block
+106 52 pick up the upper middle block
+114 183 pick up the block at the bottom
+114 183 pick up the bottom block
+114 183 pick up the bottom block which color is red
+114 183 pick up the bottom red block
+114 183 pick up the lower block
+114 183 pick up the lower block which color is red
+114 183 pick up the lower red block
+114 183 pick up the lower right red block
+114 183 pick up the red block at the bottom
+114 183 pick up the right red block
+165 87 pick up the green block on the right
+165 87 pick up the lower green block
+165 87 pick up the lower right green block
+165 87 pick up the right block which color is green
+165 87 pick up the right green block
+165 87 pick up the rightmost block
+165 87 pick up the rightmost block which color is green
+165 87 pick up the rightmost green block
+18 49 pick up the block at the top left
+18 49 pick up the block at the upper left corner
+18 49 pick up the block on the leftmost top
+18 49 pick up the block on the upper left
+18 49 pick up the left block which color is red
+18 49 pick up the left red block
+18 49 pick up the leftmost block
+18 49 pick up the leftmost block which color is red
+18 49 pick up the leftmost red block
+18 49 pick up the red block at the top
+18 49 pick up the red block at the top left
+18 49 pick up the red block at the upper left corner
+18 49 pick up the red block on the left
+18 49 pick up the red block on the leftmost top
+18 49 pick up the red block on the upper left
+18 49 pick up the top block which color is red
+18 49 pick up the top left block
+18 49 pick up the top left block which color is red
+18 49 pick up the top left red block
+18 49 pick up the top red block
+18 49 pick up the upper block which color is red
+18 49 pick up the upper left block
+18 49 pick up the upper left block which color is red
+18 49 pick up the upper left red block
+18 49 pick up the upper red block

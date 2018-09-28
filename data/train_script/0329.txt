@@ -1,0 +1,16 @@
+47 78 pick up the block at the top
+47 78 pick up the block at the upper left corner
+47 78 pick up the top block
+47 78 pick up the top block which color is green
+47 78 pick up the top green block
+47 78 pick up the upper block
+47 78 pick up the upper block which color is green
+47 78 pick up the upper green block
+57 163 pick up the block at the bottom
+57 163 pick up the bottom block
+57 163 pick up the bottom block which color is green
+57 163 pick up the bottom green block
+57 163 pick up the green block at the bottom
+57 163 pick up the lower block
+57 163 pick up the lower block which color is green
+57 163 pick up the lower green block

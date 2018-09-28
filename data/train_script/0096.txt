@@ -1,0 +1,53 @@
+10 64 pick up the block at the upper left corner
+10 64 pick up the block on the left
+10 64 pick up the block on the upper left
+10 64 pick up the left block which color is yellow
+10 64 pick up the left yellow block
+10 64 pick up the leftmost block
+10 64 pick up the leftmost block which color is yellow
+10 64 pick up the leftmost yellow block
+10 64 pick up the upper block which color is yellow
+10 64 pick up the upper left block
+10 64 pick up the upper left block which color is yellow
+10 64 pick up the upper left yellow block
+10 64 pick up the upper yellow block
+10 64 pick up the yellow block at the upper left corner
+10 64 pick up the yellow block on the left
+10 64 pick up the yellow block on the upper left
+145 122 pick up the block in the middle which color is green
+145 122 pick up the center block which color is green
+145 122 pick up the green block
+145 122 pick up the green block at the center
+145 122 pick up the green block in the middle
+145 122 pick up the middle block which color is green
+145 122 pick up the middle green block
+160 35 pick up the purple block
+160 35 pick up the purple block at the top
+160 35 pick up the top block which color is purple
+160 35 pick up the top purple block
+160 35 pick up the upper block which color is purple
+160 35 pick up the upper purple block
+165 175 pick up the blue block
+165 175 pick up the blue block on the lower right
+165 175 pick up the lower blue block
+165 175 pick up the lower right block which color is blue
+165 175 pick up the lower right blue block
+212 188 pick up the bottom right block which color is yellow
+212 188 pick up the bottom right yellow block
+212 188 pick up the bottom yellow block
+212 188 pick up the lower block which color is yellow
+212 188 pick up the lower right block which color is yellow
+212 188 pick up the lower right yellow block
+212 188 pick up the lower yellow block
+212 188 pick up the right block which color is yellow
+212 188 pick up the right yellow block
+212 188 pick up the rightmost block
+212 188 pick up the rightmost block which color is yellow
+212 188 pick up the rightmost yellow block
+212 188 pick up the yellow block at the bottom
+212 188 pick up the yellow block at the bottom right
+212 188 pick up the yellow block at the lower right corner
+212 188 pick up the yellow block on the lower right
+212 188 pick up the yellow block on the right
+212 188 pick up the yellow block on the rightmost bottom
+98 72 pick up the red block

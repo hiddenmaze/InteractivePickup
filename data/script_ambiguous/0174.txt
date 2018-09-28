@@ -1,0 +1,11 @@
+pick up the block on the right
+pick up the block on the left
+pick up the block which color is red
+pick up the right block
+pick up the left block
+pick up the rightmost block
+pick up the leftmost block
+pick up the upper block
+pick up the block at the top
+pick up the top block
+pick up the red block

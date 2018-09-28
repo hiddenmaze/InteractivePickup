@@ -1,0 +1,55 @@
+101 124 pick up the lower green block
+114 80 pick up the upper green block
+201 54 pick up the block at the top
+201 54 pick up the block at the top right
+201 54 pick up the block at the upper right corner
+201 54 pick up the block on the right
+201 54 pick up the block on the rightmost top
+201 54 pick up the block on the upper right
+201 54 pick up the purple block at the top
+201 54 pick up the purple block at the top right
+201 54 pick up the purple block at the upper right corner
+201 54 pick up the purple block on the right
+201 54 pick up the purple block on the rightmost top
+201 54 pick up the purple block on the upper right
+201 54 pick up the right block which color is purple
+201 54 pick up the right purple block
+201 54 pick up the rightmost block
+201 54 pick up the rightmost block which color is purple
+201 54 pick up the rightmost purple block
+201 54 pick up the top block
+201 54 pick up the top block which color is purple
+201 54 pick up the top purple block
+201 54 pick up the top right block
+201 54 pick up the top right block which color is purple
+201 54 pick up the top right purple block
+201 54 pick up the upper block which color is purple
+201 54 pick up the upper purple block
+201 54 pick up the upper right block which color is purple
+201 54 pick up the upper right purple block
+50 188 pick up the block at the bottom
+50 188 pick up the block at the bottom left
+50 188 pick up the block at the lower left corner
+50 188 pick up the block on the leftmost bottom
+50 188 pick up the block on the lower left
+50 188 pick up the bottom block
+50 188 pick up the bottom block which color is purple
+50 188 pick up the bottom left block
+50 188 pick up the bottom left block which color is purple
+50 188 pick up the bottom left purple block
+50 188 pick up the bottom purple block
+50 188 pick up the left block which color is purple
+50 188 pick up the left purple block
+50 188 pick up the leftmost block
+50 188 pick up the leftmost block which color is purple
+50 188 pick up the leftmost purple block
+50 188 pick up the lower block which color is purple
+50 188 pick up the lower left block which color is purple
+50 188 pick up the lower left purple block
+50 188 pick up the lower purple block
+50 188 pick up the purple block at the bottom
+50 188 pick up the purple block at the bottom left
+50 188 pick up the purple block at the lower left corner
+50 188 pick up the purple block on the left
+50 188 pick up the purple block on the leftmost bottom
+50 188 pick up the purple block on the lower left

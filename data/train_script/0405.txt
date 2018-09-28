@@ -1,0 +1,17 @@
+122 182 pick up the block at the bottom
+122 182 pick up the bottom block
+122 182 pick up the bottom block which color is red
+122 182 pick up the bottom red block
+122 182 pick up the lower block which color is red
+122 182 pick up the lower red block
+140 102 pick up the upper red block
+140 102 pick up the upper right block
+38 133 pick up the lower green block
+38 133 pick up the lower left block
+63 75 pick up the block on the upper left
+63 75 pick up the green block at the top
+63 75 pick up the top block which color is green
+63 75 pick up the top green block
+63 75 pick up the upper block which color is green
+63 75 pick up the upper green block
+63 75 pick up the upper left block

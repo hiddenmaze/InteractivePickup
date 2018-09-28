@@ -1,0 +1,18 @@
+102 69 pick up the right yellow block
+102 69 pick up the upper right yellow block
+102 69 pick up the upper yellow block
+186 112 pick up the blue block on the right
+186 112 pick up the right block which color is blue
+186 112 pick up the right blue block
+186 112 pick up the rightmost block
+186 112 pick up the rightmost block which color is blue
+186 112 pick up the rightmost blue block
+21 131 pick up the blue block on the left
+21 131 pick up the left block which color is blue
+21 131 pick up the left blue block
+21 131 pick up the leftmost block
+21 131 pick up the leftmost block which color is blue
+21 131 pick up the leftmost blue block
+67 90 pick up the left yellow block
+67 90 pick up the lower left yellow block
+67 90 pick up the lower yellow block

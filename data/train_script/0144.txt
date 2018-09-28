@@ -1,0 +1,47 @@
+119 144 pick up the left blue block
+209 36 pick up the block at the upper right corner
+209 36 pick up the block on the upper right
+209 36 pick up the top block which color is yellow
+209 36 pick up the top yellow block
+209 36 pick up the upper block which color is yellow
+209 36 pick up the upper right block which color is yellow
+209 36 pick up the upper right yellow block
+209 36 pick up the upper yellow block
+209 36 pick up the yellow block
+209 36 pick up the yellow block at the top
+209 36 pick up the yellow block at the upper right corner
+209 36 pick up the yellow block on the upper right
+216 185 pick up the block at the bottom right
+216 185 pick up the block at the lower right corner
+216 185 pick up the blue block at the bottom right
+216 185 pick up the blue block at the lower right corner
+216 185 pick up the blue block on the lower right
+216 185 pick up the blue block on the right
+216 185 pick up the blue block on the rightmost bottom
+216 185 pick up the bottom right block
+216 185 pick up the bottom right block which color is blue
+216 185 pick up the bottom right blue block
+216 185 pick up the lower right block which color is blue
+216 185 pick up the lower right blue block
+216 185 pick up the right block which color is blue
+216 185 pick up the right blue block
+26 129 pick up the left block which color is red
+26 129 pick up the left red block
+26 129 pick up the red block
+26 129 pick up the red block on the left
+30 67 pick up the purple block
+30 67 pick up the purple block on the upper left
+30 67 pick up the upper block which color is purple
+30 67 pick up the upper left block which color is purple
+30 67 pick up the upper left purple block
+30 67 pick up the upper purple block
+56 174 pick up the bottom green block
+56 174 pick up the green block
+56 174 pick up the green block on the left
+56 174 pick up the green block on the lower left
+56 174 pick up the left block which color is green
+56 174 pick up the left green block
+56 174 pick up the lower block which color is green
+56 174 pick up the lower green block
+56 174 pick up the lower left block which color is green
+56 174 pick up the lower left green block

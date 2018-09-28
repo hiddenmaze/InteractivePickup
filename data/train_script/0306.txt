@@ -1,0 +1,18 @@
+174 87 pick up the upper blue block
+180 193 pick up the block at the bottom
+180 193 pick up the bottom block
+180 193 pick up the bottom block which color is purple
+180 193 pick up the bottom purple block
+180 193 pick up the lower block which color is purple
+180 193 pick up the lower purple block
+180 193 pick up the purple block at the bottom
+180 193 pick up the purple block at the lower right corner
+200 51 pick up the block at the top
+200 51 pick up the block at the upper right corner
+200 51 pick up the purple block at the top
+200 51 pick up the purple block at the upper right corner
+200 51 pick up the top block which color is purple
+200 51 pick up the top purple block
+200 51 pick up the upper block which color is purple
+200 51 pick up the upper purple block
+202 152 pick up the lower blue block

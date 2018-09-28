@@ -1,0 +1,58 @@
+124 86 pick up the block between the red block and the yellow block
+124 86 pick up the block between the yellow block and the red block
+124 86 pick up the green block
+124 86 pick up the green block between the red block and the yellow block
+124 86 pick up the green block between the yellow block and the red block
+124 86 pick up the green block near the center
+124 86 pick up the upper block which color is green
+124 86 pick up the upper green block
+124 86 pick up the upper middle block
+212 102 pick up the block on the right
+212 102 pick up the right block
+212 102 pick up the right block which color is yellow
+212 102 pick up the right yellow block
+212 102 pick up the rightmost block
+212 102 pick up the rightmost block which color is yellow
+212 102 pick up the rightmost yellow block
+212 102 pick up the yellow block
+212 102 pick up the yellow block on the right
+45 72 pick up the block at the top left
+45 72 pick up the block at the upper left corner
+45 72 pick up the block on the leftmost top
+45 72 pick up the block on the upper left
+45 72 pick up the left block which color is red
+45 72 pick up the left red block
+45 72 pick up the red block
+45 72 pick up the red block at the top
+45 72 pick up the red block at the top left
+45 72 pick up the red block at the upper left corner
+45 72 pick up the red block on the left
+45 72 pick up the red block on the upper left
+45 72 pick up the top block which color is red
+45 72 pick up the top left block
+45 72 pick up the top left block which color is red
+45 72 pick up the top left red block
+45 72 pick up the top red block
+45 72 pick up the upper block which color is red
+45 72 pick up the upper left block
+45 72 pick up the upper left block which color is red
+45 72 pick up the upper left red block
+45 72 pick up the upper red block
+49 174 pick up the block at the bottom
+49 174 pick up the block at the lower left corner
+49 174 pick up the block on the lower left
+49 174 pick up the bottom block
+49 174 pick up the bottom block which color is purple
+49 174 pick up the bottom purple block
+49 174 pick up the left block which color is purple
+49 174 pick up the left purple block
+49 174 pick up the lower block which color is purple
+49 174 pick up the lower left block
+49 174 pick up the lower left block which color is purple
+49 174 pick up the lower left purple block
+49 174 pick up the lower purple block
+49 174 pick up the purple block
+49 174 pick up the purple block at the bottom
+49 174 pick up the purple block at the lower left corner
+49 174 pick up the purple block on the left
+49 174 pick up the purple block on the lower left

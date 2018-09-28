@@ -1,0 +1,5 @@
+pick up the blue block
+pick up the block at the top
+pick up the top block
+pick up the upper block
+pick up the block which color is blue

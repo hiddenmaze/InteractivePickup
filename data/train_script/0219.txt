@@ -1,0 +1,60 @@
+190 60 pick up the block at the upper right corner
+190 60 pick up the block on the upper right
+190 60 pick up the purple block
+190 60 pick up the purple block at the upper right corner
+190 60 pick up the purple block on the upper right
+190 60 pick up the top block which color is purple
+190 60 pick up the top purple block
+190 60 pick up the upper block which color is purple
+190 60 pick up the upper purple block
+190 60 pick up the upper right block
+190 60 pick up the upper right block which color is purple
+190 60 pick up the upper right purple block
+206 167 pick up the block at the bottom
+206 167 pick up the block at the bottom right
+206 167 pick up the block on the lower right
+206 167 pick up the block on the rightmost bottom
+206 167 pick up the bottom block
+206 167 pick up the bottom block which color is red
+206 167 pick up the bottom red block
+206 167 pick up the bottom right block
+206 167 pick up the bottom right block which color is red
+206 167 pick up the bottom right red block
+206 167 pick up the lower block
+206 167 pick up the lower block which color is red
+206 167 pick up the lower red block
+206 167 pick up the lower right block
+206 167 pick up the lower right block which color is red
+206 167 pick up the lower right red block
+206 167 pick up the red block
+206 167 pick up the red block at the bottom
+206 167 pick up the red block at the bottom right
+206 167 pick up the red block on the lower right
+206 167 pick up the red block on the right
+206 167 pick up the red block on the rightmost bottom
+206 167 pick up the right block which color is red
+206 167 pick up the right red block
+59 59 pick up the block at the top left
+59 59 pick up the block at the upper left corner
+59 59 pick up the block on the leftmost top
+59 59 pick up the green block
+59 59 pick up the green block at the top
+59 59 pick up the green block at the top left
+59 59 pick up the green block at the upper left corner
+59 59 pick up the green block on the left
+59 59 pick up the green block on the leftmost top
+59 59 pick up the green block on the upper left
+59 59 pick up the left block which color is green
+59 59 pick up the left green block
+59 59 pick up the top block which color is green
+59 59 pick up the top green block
+59 59 pick up the top left block which color is green
+59 59 pick up the top left green block
+59 59 pick up the upper block which color is green
+59 59 pick up the upper green block
+59 59 pick up the upper left block which color is green
+59 59 pick up the upper left green block
+72 110 pick up the blue block
+72 110 pick up the blue block on the left
+72 110 pick up the left block which color is blue
+72 110 pick up the left blue block

@@ -1,0 +1,23 @@
+113 122 pick up the block at the top
+113 122 pick up the top block
+113 122 pick up the top block which color is yellow
+113 122 pick up the top yellow block
+113 122 pick up the upper block which color is yellow
+113 122 pick up the upper yellow block
+113 122 pick up the yellow block at the top
+117 205 pick up the bottom yellow block
+117 205 pick up the lower yellow block
+160 169 pick up the red block on the right
+160 169 pick up the right block
+160 169 pick up the right block which color is red
+160 169 pick up the right red block
+160 169 pick up the rightmost block
+160 169 pick up the rightmost block which color is red
+160 169 pick up the rightmost red block
+41 190 pick up the block at the lower left corner
+41 190 pick up the block on the left
+41 190 pick up the left red block
+41 190 pick up the leftmost block
+41 190 pick up the leftmost block which color is red
+41 190 pick up the leftmost red block
+41 190 pick up the red block on the left

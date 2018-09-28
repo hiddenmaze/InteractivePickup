@@ -1,0 +1,19 @@
+129 119 pick up the blue block at the top
+129 119 pick up the right blue block
+129 119 pick up the top blue block
+129 119 pick up the upper right blue block
+158 155 pick up the top red block
+158 155 pick up the upper red block
+174 224 pick up the block at the bottom
+174 224 pick up the bottom block
+174 224 pick up the bottom block which color is red
+174 224 pick up the bottom red block
+174 224 pick up the lower block which color is red
+174 224 pick up the lower red block
+174 224 pick up the red block at the bottom
+61 145 pick up the blue block on the left
+61 145 pick up the left block which color is blue
+61 145 pick up the left blue block
+61 145 pick up the leftmost block
+61 145 pick up the leftmost block which color is blue
+61 145 pick up the leftmost blue block

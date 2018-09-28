@@ -1,0 +1,19 @@
+103 225 pick up the block at the bottom
+103 225 pick up the bottom block
+103 225 pick up the bottom block which color is green
+103 225 pick up the bottom green block
+103 225 pick up the green block at the bottom
+103 225 pick up the lower block which color is green
+103 225 pick up the lower green block
+113 125 pick up the green block at the top
+113 125 pick up the top block which color is green
+113 125 pick up the top green block
+113 125 pick up the upper block which color is green
+113 125 pick up the upper green block
+71 128 pick up the red block at the top
+71 128 pick up the top red block
+71 128 pick up the upper red block
+74 195 pick up the bottom block which color is red
+74 195 pick up the bottom red block
+74 195 pick up the lower block which color is red
+74 195 pick up the lower red block

@@ -1,0 +1,48 @@
+106 93 pick up the block between the blue block and the red block
+106 93 pick up the block between the red block and the blue block
+106 93 pick up the block between two yellow blocks
+106 93 pick up the block between yellow blocks
+106 93 pick up the block in the middle which color is purple
+106 93 pick up the middle block which color is purple
+106 93 pick up the middle purple block
+106 93 pick up the purple block
+106 93 pick up the purple block between the blue block and the red block
+106 93 pick up the purple block between the red block and the blue block
+106 93 pick up the purple block between two yellow blocks
+106 93 pick up the purple block between yellow blocks
+106 93 pick up the purple block in the middle
+156 153 pick up the block between the green block and the right yellow block
+156 153 pick up the block between the right yellow block and the green block
+156 153 pick up the red block
+156 153 pick up the red block between the green block and the right yellow block
+156 153 pick up the red block between the right yellow block and the green block
+197 101 pick up the right block which color is yellow
+197 101 pick up the right yellow block
+197 101 pick up the rightmost block
+197 101 pick up the rightmost block which color is yellow
+197 101 pick up the rightmost yellow block
+197 101 pick up the yellow block on the right
+28 115 pick up the left block which color is yellow
+28 115 pick up the left yellow block
+28 115 pick up the leftmost block
+28 115 pick up the leftmost block which color is yellow
+28 115 pick up the leftmost yellow block
+28 115 pick up the yellow block on the left
+65 53 pick up the block at the top
+65 53 pick up the blue block
+65 53 pick up the blue block at the top
+65 53 pick up the blue block on the upper left
+65 53 pick up the top block which color is blue
+65 53 pick up the top blue block
+65 53 pick up the upper block which color is blue
+65 53 pick up the upper blue block
+65 53 pick up the upper left block which color is blue
+65 53 pick up the upper left blue block
+95 184 pick up the block at the bottom
+95 184 pick up the bottom block
+95 184 pick up the bottom block which color is green
+95 184 pick up the bottom green block
+95 184 pick up the green block
+95 184 pick up the green block at the bottom
+95 184 pick up the lower block which color is green
+95 184 pick up the lower green block

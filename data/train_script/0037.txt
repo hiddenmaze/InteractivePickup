@@ -1,0 +1,55 @@
+169 81 pick up the block on the right
+169 81 pick up the block on the upper right
+169 81 pick up the purple block
+169 81 pick up the purple block at the top
+169 81 pick up the purple block at the top right
+169 81 pick up the purple block on the right
+169 81 pick up the purple block on the rightmost top
+169 81 pick up the purple block on the upper right
+169 81 pick up the right block
+169 81 pick up the right block which color is purple
+169 81 pick up the right purple block
+169 81 pick up the rightmost block
+169 81 pick up the rightmost block which color is purple
+169 81 pick up the rightmost purple block
+169 81 pick up the top block which color is purple
+169 81 pick up the top purple block
+169 81 pick up the top right block
+169 81 pick up the top right block which color is purple
+169 81 pick up the top right purple block
+169 81 pick up the upper block which color is purple
+169 81 pick up the upper purple block
+169 81 pick up the upper right block
+169 81 pick up the upper right block which color is purple
+169 81 pick up the upper right purple block
+61 82 pick up the block on the upper left
+61 82 pick up the left block which color is red
+61 82 pick up the left red block
+61 82 pick up the red block
+61 82 pick up the red block on the left
+61 82 pick up the red block on the upper left
+61 82 pick up the top block which color is red
+61 82 pick up the top red block
+61 82 pick up the upper block which color is red
+61 82 pick up the upper left block
+61 82 pick up the upper left block which color is red
+61 82 pick up the upper left red block
+61 82 pick up the upper red block
+69 181 pick up the block at the bottom
+69 181 pick up the block on the lower left
+69 181 pick up the bottom block
+69 181 pick up the bottom block which color is green
+69 181 pick up the bottom green block
+69 181 pick up the green block
+69 181 pick up the green block at the bottom
+69 181 pick up the green block at the lower left corner
+69 181 pick up the green block on the left
+69 181 pick up the green block on the lower left
+69 181 pick up the left block which color is green
+69 181 pick up the left green block
+69 181 pick up the lower block
+69 181 pick up the lower block which color is green
+69 181 pick up the lower green block
+69 181 pick up the lower left block
+69 181 pick up the lower left block which color is green
+69 181 pick up the lower left green block

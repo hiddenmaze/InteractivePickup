@@ -1,0 +1,46 @@
+166 157 pick up the block at the bottom
+166 157 pick up the blue block at the bottom
+166 157 pick up the bottom block
+166 157 pick up the bottom block which color is blue
+166 157 pick up the bottom blue block
+166 157 pick up the lower block which color is blue
+166 157 pick up the lower blue block
+171 85 pick up the block between purple blocks
+171 85 pick up the block between two purple blocks
+171 85 pick up the blue block between purple blocks
+171 85 pick up the blue block between two purple blocks
+171 85 pick up the upper blue block
+201 48 pick up the block at the top
+201 48 pick up the block at the top right
+201 48 pick up the block at the upper right corner
+201 48 pick up the block on the rightmost top
+201 48 pick up the purple block at the top
+201 48 pick up the purple block at the top right
+201 48 pick up the purple block at the upper right corner
+201 48 pick up the purple block on the right
+201 48 pick up the purple block on the rightmost top
+201 48 pick up the purple block on the upper right
+201 48 pick up the right block which color is purple
+201 48 pick up the right purple block
+201 48 pick up the rightmost block
+201 48 pick up the rightmost block which color is purple
+201 48 pick up the rightmost purple block
+201 48 pick up the top block
+201 48 pick up the top block which color is purple
+201 48 pick up the top purple block
+201 48 pick up the top right block
+201 48 pick up the top right block which color is purple
+201 48 pick up the top right purple block
+201 48 pick up the upper block which color is purple
+201 48 pick up the upper purple block
+201 48 pick up the upper right block which color is purple
+201 48 pick up the upper right purple block
+35 120 pick up the block on the left
+35 120 pick up the left block
+35 120 pick up the left block which color is purple
+35 120 pick up the left purple block
+35 120 pick up the leftmost block
+35 120 pick up the leftmost block which color is purple
+35 120 pick up the leftmost purple block
+35 120 pick up the lower left purple block
+35 120 pick up the purple block on the left

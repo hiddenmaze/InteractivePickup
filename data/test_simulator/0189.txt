@@ -1,0 +1,16 @@
+38,65,pick up the block on the left,red,upper
+30,143,pick up the block on the left,green,lower
+38,66,pick up the left block,red,upper
+31,143,pick up the left block,green,lower
+143,91,pick up the purple block,purple,upper
+162,187,pick up the purple block,purple,lower
+38,65,pick up the leftmost block,red,upper
+31,143,pick up the leftmost block,green,lower
+162,187,pick up the block on the lower right,purple,lowerleft
+200,151,pick up the block on the lower right,yellow,upperright
+162,185,pick up the lower right block,purple,lowerleft
+200,151,pick up the lower right block,yellow,upperright
+143,92,pick up the block which color is purple,purple,upper
+162,186,pick up the block which color is purple,purple,lower
+163,186,pick up the block at the lower right corner,purple,lowerleft
+200,152,pick up the block at the lower right corner,yellow,upperright

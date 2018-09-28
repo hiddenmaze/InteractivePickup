@@ -1,0 +1,13 @@
+200,74,pick up the block on the right,blue,upper
+191,186,pick up the block on the right,yellow,lower
+201,73,pick up the right block,blue,upper
+192,186,pick up the right block,yellow,lower
+200,74,pick up the rightmost block,blue,upper
+193,187,pick up the rightmost block,yellow,lower
+43,65,pick up the upper block,green,left
+97,104,pick up the upper block,red,middle
+200,74,pick up the upper block,blue,right
+42,65,pick up the block at the top,green,left
+200,74,pick up the block at the top,blue,right
+42,64,pick up the top block,green,left
+200,74,pick up the top block,blue,right

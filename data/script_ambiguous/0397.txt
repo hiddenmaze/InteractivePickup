@@ -1,0 +1,4 @@
+pick up the block which color is yellow
+pick up the yellow block
+pick up the green block
+pick up the block which color is green

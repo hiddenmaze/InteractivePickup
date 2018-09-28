@@ -1,0 +1,20 @@
+101 184 pick up the block at the bottom
+101 184 pick up the bottom block
+101 184 pick up the bottom block which color is yellow
+101 184 pick up the bottom yellow block
+101 184 pick up the lower right yellow block
+101 184 pick up the lower yellow block
+103 50 pick up the block at the top
+103 50 pick up the top block
+103 50 pick up the top green block
+103 50 pick up the upper block
+103 50 pick up the upper green block
+132 157 pick up the lower green block
+132 157 pick up the rightmost block
+47 144 pick up the left block which color is yellow
+47 144 pick up the left yellow block
+47 144 pick up the leftmost block
+47 144 pick up the leftmost block which color is yellow
+47 144 pick up the leftmost yellow block
+47 144 pick up the upper left yellow block
+47 144 pick up the yellow block on the left

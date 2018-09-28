@@ -1,0 +1,30 @@
+109 194 pick up the block at the bottom
+109 194 pick up the bottom block
+109 194 pick up the bottom block which color is green
+109 194 pick up the bottom green block
+109 194 pick up the green block
+109 194 pick up the green block at the bottom
+109 194 pick up the lower block
+109 194 pick up the lower block which color is green
+109 194 pick up the lower green block
+51 137 pick up the left block which color is yellow
+51 137 pick up the left yellow block
+51 137 pick up the yellow block
+51 137 pick up the yellow block on the left
+65 45 pick up the block at the top
+65 45 pick up the block at the upper left corner
+65 45 pick up the block on the upper left
+65 45 pick up the purple block
+65 45 pick up the purple block at the top
+65 45 pick up the purple block at the upper left corner
+65 45 pick up the purple block on the upper left
+65 45 pick up the top block
+65 45 pick up the top block which color is purple
+65 45 pick up the top purple block
+65 45 pick up the upper block which color is purple
+65 45 pick up the upper purple block
+98 102 pick up the red block
+98 102 pick up the red block between the green block and the purple block
+98 102 pick up the red block between the purple block and the green block
+98 102 pick up the red block on the right
+98 102 pick up the right red block

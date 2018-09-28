@@ -1,0 +1,45 @@
+183 119 pick up the block on the right
+183 119 pick up the right block
+183 119 pick up the right block which color is yellow
+183 119 pick up the right yellow block
+183 119 pick up the rightmost block
+183 119 pick up the rightmost block which color is yellow
+183 119 pick up the rightmost yellow block
+183 119 pick up the yellow block on the right
+73 199 pick up the block at the bottom
+73 199 pick up the block at the bottom left
+73 199 pick up the block at the lower left corner
+73 199 pick up the block on the leftmost bottom
+73 199 pick up the block on the lower left
+73 199 pick up the bottom block
+73 199 pick up the bottom block which color is purple
+73 199 pick up the bottom left block
+73 199 pick up the bottom left block which color is purple
+73 199 pick up the bottom left purple block
+73 199 pick up the bottom purple block
+73 199 pick up the lower block which color is purple
+73 199 pick up the lower left block which color is purple
+73 199 pick up the lower left purple block
+73 199 pick up the lower purple block
+73 199 pick up the purple block at the bottom
+73 199 pick up the purple block at the lower left corner
+73 199 pick up the purple block on the leftmost bottom
+73 199 pick up the purple block on the lower left
+73 84 pick up the block at the top
+73 84 pick up the purple block at the top
+73 84 pick up the top block
+73 84 pick up the top block which color is purple
+73 84 pick up the top purple block
+73 84 pick up the upper block which color is purple
+73 84 pick up the upper purple block
+90 142 pick up the block between purple blocks
+90 142 pick up the block between two purple blocks
+90 142 pick up the left middle block
+90 142 pick up the left yellow block
+90 142 pick up the left yellow block between purple blocks
+90 142 pick up the left yellow block between two purple blocks
+90 142 pick up the yellow block between purple blocks
+90 142 pick up the yellow block between two purple blocks
+90 142 pick up the yellow block on the left
+90 142 pick up the yellow block on the left between purple blocks
+90 142 pick up the yellow block on the left between two purple blocks

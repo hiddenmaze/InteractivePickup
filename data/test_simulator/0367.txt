@@ -1,0 +1,8 @@
+120,124,pick up the block which color is green,green,upperleft upper left
+157,152,pick up the block which color is green,green,lowerright lower right
+108,187,pick up the red block,red,lowerleft lower left
+192,141,pick up the red block,red,upperright upper right
+119,124,pick up the green block,green,upperleft upper left
+157,152,pick up the green block,green,lowerright lower right
+108,187,pick up the block which color is red,red,lowerleft lower left
+192,140,pick up the block which color is red,red,upperright upper right

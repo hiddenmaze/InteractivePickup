@@ -1,0 +1,51 @@
+175 129 pick up the block on the right
+175 129 pick up the blue block
+175 129 pick up the blue block on the right
+175 129 pick up the right block
+175 129 pick up the right block which color is blue
+175 129 pick up the right blue block
+175 129 pick up the rightmost block
+175 129 pick up the rightmost block which color is blue
+175 129 pick up the rightmost blue block
+32 202 pick up the block at the bottom
+32 202 pick up the block at the bottom left
+32 202 pick up the block at the lower left corner
+32 202 pick up the block on the leftmost bottom
+32 202 pick up the block on the lower left
+32 202 pick up the bottom block
+32 202 pick up the bottom block which color is green
+32 202 pick up the bottom green block
+32 202 pick up the bottom left block
+32 202 pick up the bottom left block which color is green
+32 202 pick up the bottom left green block
+32 202 pick up the green block
+32 202 pick up the green block at the bottom
+32 202 pick up the green block at the bottom left
+32 202 pick up the green block at the lower left corner
+32 202 pick up the green block on the left
+32 202 pick up the green block on the leftmost bottom
+32 202 pick up the green block on the lower left
+32 202 pick up the left block which color is green
+32 202 pick up the left green block
+32 202 pick up the lower block
+32 202 pick up the lower block which color is green
+32 202 pick up the lower green block
+32 202 pick up the lower left block
+32 202 pick up the lower left block which color is green
+32 202 pick up the lower left green block
+41 71 pick up the block at the top
+41 71 pick up the block at the upper left corner
+41 71 pick up the block on the upper left
+41 71 pick up the top block
+41 71 pick up the top block which color is yellow
+41 71 pick up the top yellow block
+41 71 pick up the upper block
+41 71 pick up the upper block which color is yellow
+41 71 pick up the upper left block
+41 71 pick up the upper left block which color is yellow
+41 71 pick up the upper left yellow block
+41 71 pick up the upper yellow block
+41 71 pick up the yellow block
+41 71 pick up the yellow block at the top
+41 71 pick up the yellow block at the upper left corner
+41 71 pick up the yellow block on the upper left

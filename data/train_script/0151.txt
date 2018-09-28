@@ -1,0 +1,68 @@
+116 137 pick up the block at the center
+116 137 pick up the block between the left blue block and the red block
+116 137 pick up the block between the red block and the left blue block
+116 137 pick up the block near the center
+116 137 pick up the blue block at the center
+116 137 pick up the blue block between the another blue block
+116 137 pick up the blue block between the red block and the another blue block
+116 137 pick up the blue block near the center
+211 35 pick up the block at the upper right corner
+211 35 pick up the top block which color is yellow
+211 35 pick up the top yellow block
+211 35 pick up the upper block which color is yellow
+211 35 pick up the upper right block which color is yellow
+211 35 pick up the upper right yellow block
+211 35 pick up the upper yellow block
+211 35 pick up the yellow block
+211 35 pick up the yellow block at the top
+211 35 pick up the yellow block at the upper right corner
+211 35 pick up the yellow block on the upper right
+215 102 pick up the red block
+215 102 pick up the red block on the right
+215 102 pick up the right block which color is red
+215 102 pick up the right center block
+215 102 pick up the right middle block
+215 102 pick up the right red block
+224 197 pick up the block at the bottom
+224 197 pick up the block at the bottom right
+224 197 pick up the block at the lower right corner
+224 197 pick up the block on the lower right
+224 197 pick up the block on the rightmost bottom
+224 197 pick up the bottom block
+224 197 pick up the bottom block which color is purple
+224 197 pick up the bottom purple block
+224 197 pick up the bottom right block
+224 197 pick up the bottom right block which color is purple
+224 197 pick up the bottom right purple block
+224 197 pick up the lower block which color is purple
+224 197 pick up the lower purple block
+224 197 pick up the lower right block
+224 197 pick up the lower right block which color is purple
+224 197 pick up the lower right purple block
+224 197 pick up the purple block
+224 197 pick up the purple block at the bottom
+224 197 pick up the purple block at the bottom right
+224 197 pick up the purple block at the lower right corner
+224 197 pick up the purple block on the lower right
+224 197 pick up the purple block on the right
+224 197 pick up the purple block on the rightmost bottom
+224 197 pick up the right block which color is purple
+224 197 pick up the right purple block
+38 154 pick up the blue block on the left
+38 154 pick up the left block which color is blue
+38 154 pick up the left blue block
+38 46 pick up the block at the upper left corner
+38 46 pick up the block on the upper left
+38 46 pick up the green block
+38 46 pick up the green block at the upper left corner
+38 46 pick up the green block on the left
+38 46 pick up the green block on the upper left
+38 46 pick up the left block which color is green
+38 46 pick up the left green block
+38 46 pick up the top block which color is green
+38 46 pick up the top green block
+38 46 pick up the upper block which color is green
+38 46 pick up the upper green block
+38 46 pick up the upper left block
+38 46 pick up the upper left block which color is green
+38 46 pick up the upper left green block

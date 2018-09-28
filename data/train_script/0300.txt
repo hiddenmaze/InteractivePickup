@@ -1,0 +1,23 @@
+182 120 pick up the upper yellow block
+188 173 pick up the block at the lower right corner
+188 173 pick up the bottom block which color is yellow
+188 173 pick up the bottom yellow block
+188 173 pick up the lower block which color is yellow
+188 173 pick up the lower yellow block
+188 173 pick up the yellow block at the lower right corner
+72 83 pick up the block at the top
+72 83 pick up the block at the top left
+72 83 pick up the block on the upper left
+72 83 pick up the purple block at the top
+72 83 pick up the top block which color is purple
+72 83 pick up the top purple block
+72 83 pick up the upper block which color is purple
+72 83 pick up the upper purple block
+74 199 pick up the block at the lower left corner
+74 199 pick up the block on the lower left
+74 199 pick up the bottom block which color is purple
+74 199 pick up the bottom purple block
+74 199 pick up the lower block which color is purple
+74 199 pick up the lower purple block
+74 199 pick up the purple block at the bottom
+74 199 pick up the purple block at the lower left corner

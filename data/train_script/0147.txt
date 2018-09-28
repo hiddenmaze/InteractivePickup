@@ -1,0 +1,47 @@
+119 143 pick up the left blue block
+119 143 pick up the lower center block
+119 143 pick up the lower middle block
+138 59 pick up the green block
+138 59 pick up the upper block which color is green
+138 59 pick up the upper center block
+138 59 pick up the upper green block
+138 59 pick up the upper middle block
+212 34 pick up the block at the upper right corner
+212 34 pick up the top block which color is yellow
+212 34 pick up the top yellow block
+212 34 pick up the upper block which color is yellow
+212 34 pick up the upper right block
+212 34 pick up the upper right block which color is yellow
+212 34 pick up the upper right yellow block
+212 34 pick up the upper yellow block
+212 34 pick up the yellow block
+212 34 pick up the yellow block at the top
+212 34 pick up the yellow block at the upper right corner
+212 34 pick up the yellow block on the upper right
+216 184 pick up the block at the bottom right
+216 184 pick up the block at the lower right corner
+216 184 pick up the block on the rightmost bottom
+216 184 pick up the blue block at the bottom right
+216 184 pick up the blue block at the lower right corner
+216 184 pick up the blue block on the lower right
+216 184 pick up the blue block on the right
+216 184 pick up the blue block on the rightmost bottom
+216 184 pick up the bottom right block which color is blue
+216 184 pick up the bottom right blue block
+216 184 pick up the lower right block which color is blue
+216 184 pick up the lower right blue block
+216 184 pick up the right block which color is blue
+216 184 pick up the right blue block
+31 129 pick up the left block which color is red
+31 129 pick up the left red block
+31 129 pick up the leftmost block
+31 129 pick up the leftmost block which color is red
+31 129 pick up the leftmost red block
+31 129 pick up the red block
+31 129 pick up the red block on the left
+71 57 pick up the purple block
+71 57 pick up the purple block on the upper left
+71 57 pick up the upper block which color is purple
+71 57 pick up the upper left block which color is purple
+71 57 pick up the upper left purple block
+71 57 pick up the upper purple block

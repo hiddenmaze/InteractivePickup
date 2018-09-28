@@ -1,0 +1,7 @@
+pick up the block which color is red
+pick up the blue block
+pick up the left block which color is blue
+pick up the red block
+pick up the left blue block
+pick up the block on the left which color is blue
+pick up the block which color is blue

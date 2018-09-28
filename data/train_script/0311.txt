@@ -1,0 +1,46 @@
+101 174 pick up the block at the bottom
+101 174 pick up the bottom block
+101 174 pick up the bottom block which color is red
+101 174 pick up the bottom red block
+101 174 pick up the lower block
+101 174 pick up the lower block which color is red
+101 174 pick up the lower red block
+101 174 pick up the red block at the bottom
+111 109 pick up the upper red block
+200 50 pick up the block at the top
+200 50 pick up the block at the top right
+200 50 pick up the block at the upper right corner
+200 50 pick up the block on the right
+200 50 pick up the block on the rightmost top
+200 50 pick up the block on the upper right
+200 50 pick up the purple block at the top
+200 50 pick up the purple block at the top right
+200 50 pick up the purple block at the upper right corner
+200 50 pick up the purple block on the right
+200 50 pick up the purple block on the rightmost top
+200 50 pick up the purple block on the upper right
+200 50 pick up the right block which color is purple
+200 50 pick up the right purple block
+200 50 pick up the rightmost block
+200 50 pick up the rightmost block which color is purple
+200 50 pick up the rightmost purple block
+200 50 pick up the top block
+200 50 pick up the top block which color is purple
+200 50 pick up the top purple block
+200 50 pick up the top right block
+200 50 pick up the top right block which color is purple
+200 50 pick up the top right purple block
+200 50 pick up the upper block which color is purple
+200 50 pick up the upper purple block
+200 50 pick up the upper right block
+200 50 pick up the upper right block which color is purple
+200 50 pick up the upper right purple block
+29 106 pick up the block on the left
+29 106 pick up the left block
+29 106 pick up the left block which color is purple
+29 106 pick up the left purple block
+29 106 pick up the leftmost block
+29 106 pick up the leftmost block which color is purple
+29 106 pick up the leftmost purple block
+29 106 pick up the lower left purple block
+29 106 pick up the purple block on the left

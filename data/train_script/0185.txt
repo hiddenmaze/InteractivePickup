@@ -1,0 +1,35 @@
+102 72 pick up the blue block
+102 72 pick up the blue block between purple blocks
+102 72 pick up the blue block between two purple blocks
+102 72 pick up the upper middle blue block
+141 92 pick up the purple block on the right
+141 92 pick up the right purple block
+141 92 pick up the upper middle purple block
+199 150 pick up the right block which color is yellow
+199 150 pick up the right yellow block
+199 150 pick up the yellow block
+199 150 pick up the yellow block on the right
+222 68 pick up the block at the upper right corner
+222 68 pick up the red block
+222 68 pick up the red block at the upper right corner
+222 68 pick up the red block on the right
+222 68 pick up the red block on the upper right
+222 68 pick up the right block which color is red
+222 68 pick up the right red block
+222 68 pick up the top block which color is red
+222 68 pick up the top red block
+222 68 pick up the upper block which color is red
+222 68 pick up the upper red block
+222 68 pick up the upper right block which color is red
+222 68 pick up the upper right red block
+61 63 pick up the left block which color is purple
+61 63 pick up the left purple block
+61 63 pick up the leftmost block which color is purple
+61 63 pick up the leftmost purple block
+61 63 pick up the purple block on the left
+94 169 pick up the bottom block which color is green
+94 169 pick up the bottom green block
+94 169 pick up the green block
+94 169 pick up the green block at the bottom
+94 169 pick up the lower block which color is green
+94 169 pick up the lower green block

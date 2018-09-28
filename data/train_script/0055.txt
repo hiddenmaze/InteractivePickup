@@ -1,0 +1,35 @@
+181 97 pick up the block on the right
+181 97 pick up the green block
+181 97 pick up the green block on the right
+181 97 pick up the right block
+181 97 pick up the right block which color is green
+181 97 pick up the right green block
+181 97 pick up the rightmost block
+181 97 pick up the rightmost block which color is green
+181 97 pick up the rightmost green block
+34 89 pick up the block on the left
+34 89 pick up the left block
+34 89 pick up the left block which color is red
+34 89 pick up the left red block
+34 89 pick up the leftmost block
+34 89 pick up the leftmost block which color is red
+34 89 pick up the leftmost red block
+34 89 pick up the red block
+34 89 pick up the red block on the left
+34 89 pick up the upper block which color is red
+34 89 pick up the upper red block
+80 166 pick up the block at the bottom
+80 166 pick up the bottom block
+80 166 pick up the bottom block which color is yellow
+80 166 pick up the bottom yellow block
+80 166 pick up the lower block
+80 166 pick up the lower block which color is yellow
+80 166 pick up the lower yellow block
+80 166 pick up the yellow block
+80 166 pick up the yellow block at the bottom
+89 105 pick up the block between the green block and the red block
+89 105 pick up the block between the red block and the green block
+89 105 pick up the blue block
+89 105 pick up the blue block between the green block and the red block
+89 105 pick up the blue block between the red block and the green block
+89 105 pick up the upper middle block

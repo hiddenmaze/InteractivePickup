@@ -1,0 +1,61 @@
+124 62 pick up the purple block
+124 62 pick up the upper block which color is purple
+124 62 pick up the upper center block
+124 62 pick up the upper middle block
+124 62 pick up the upper purple block
+136 113 pick up the yellow block
+136 113 pick up the yellow block at the center
+136 113 pick up the yellow block between red blocks
+136 113 pick up the yellow block between two red blocks
+136 113 pick up the yellow block near the center
+222 71 pick up the block at the upper right corner
+222 71 pick up the red block at the upper right corner
+222 71 pick up the red block on the right
+222 71 pick up the red block on the upper right
+222 71 pick up the right block which color is red
+222 71 pick up the right red block
+222 71 pick up the rightmost block
+222 71 pick up the rightmost block which color is red
+222 71 pick up the rightmost red block
+222 71 pick up the upper block which color is red
+222 71 pick up the upper red block
+222 71 pick up the upper right block which color is red
+222 71 pick up the upper right red block
+39 50 pick up the block at the upper left corner
+39 50 pick up the green block
+39 50 pick up the green block at the top
+39 50 pick up the green block at the top left
+39 50 pick up the green block at the upper left corner
+39 50 pick up the green block on the left
+39 50 pick up the green block on the leftmost top
+39 50 pick up the green block on the upper left
+39 50 pick up the left block which color is green
+39 50 pick up the left green block
+39 50 pick up the top block which color is green
+39 50 pick up the top green block
+39 50 pick up the top left block which color is green
+39 50 pick up the top left green block
+39 50 pick up the upper block which color is green
+39 50 pick up the upper green block
+39 50 pick up the upper left block which color is green
+39 50 pick up the upper left green block
+43 113 pick up the left block which color is red
+43 113 pick up the left center block
+43 113 pick up the left middle block
+43 113 pick up the left red block
+43 113 pick up the red block on the left
+60 182 pick up the block at the lower left corner
+60 182 pick up the block on the lower left
+60 182 pick up the blue block
+60 182 pick up the blue block at the bottom
+60 182 pick up the blue block at the lower left corner
+60 182 pick up the blue block on the left
+60 182 pick up the blue block on the lower left
+60 182 pick up the bottom block which color is blue
+60 182 pick up the bottom blue block
+60 182 pick up the left block which color is blue
+60 182 pick up the left blue block
+60 182 pick up the lower block which color is blue
+60 182 pick up the lower blue block
+60 182 pick up the lower left block which color is blue
+60 182 pick up the lower left blue block

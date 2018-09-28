@@ -1,0 +1,46 @@
+109 77 pick up the block between the red block and the upper purple block
+109 77 pick up the block between the upper purple block and the red block
+109 77 pick up the blue block
+109 77 pick up the blue block between the red block and the upper purple block
+109 77 pick up the blue block between the upper purple block and the red block
+109 77 pick up the upper middle blue block
+143 90 pick up the block just next to the blue block
+143 90 pick up the block next to the blue block
+143 90 pick up the purple block just next to the blue block
+143 90 pick up the purple block next to the blue block
+143 90 pick up the upper purple block
+162 184 pick up the bottom block which color is purple
+162 184 pick up the bottom purple block
+162 184 pick up the lower block which color is purple
+162 184 pick up the lower purple block
+162 184 pick up the purple block at the bottom
+201 149 pick up the right block which color is yellow
+201 149 pick up the right yellow block
+201 149 pick up the rightmost block
+201 149 pick up the rightmost block which color is yellow
+201 149 pick up the rightmost yellow block
+201 149 pick up the yellow block
+201 149 pick up the yellow block on the right
+38 63 pick up the block at the upper left corner
+38 63 pick up the block on the leftmost top
+38 63 pick up the left block which color is red
+38 63 pick up the left red block
+38 63 pick up the leftmost block
+38 63 pick up the leftmost block which color is red
+38 63 pick up the leftmost red block
+38 63 pick up the red block
+38 63 pick up the red block at the top
+38 63 pick up the red block at the top left
+38 63 pick up the red block at the upper left corner
+38 63 pick up the red block on the left
+38 63 pick up the red block on the leftmost top
+38 63 pick up the red block on the upper left
+38 63 pick up the top block which color is red
+38 63 pick up the top left block which color is red
+38 63 pick up the top left red block
+38 63 pick up the top red block
+38 63 pick up the upper block which color is red
+38 63 pick up the upper left block which color is red
+38 63 pick up the upper left red block
+38 63 pick up the upper red block
+93 167 pick up the green block

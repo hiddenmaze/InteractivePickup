@@ -1,0 +1,49 @@
+123 64 pick up the block at the top
+123 64 pick up the blue block at the top
+123 64 pick up the right blue block
+123 64 pick up the top block
+123 64 pick up the top block which color is blue
+123 64 pick up the top blue block
+123 64 pick up the upper block which color is blue
+123 64 pick up the upper blue block
+123 64 pick up the upper right blue block
+162 154 pick up the block among other blocks
+162 154 pick up the block among others
+162 154 pick up the block between other blocks
+162 154 pick up the block between others
+162 154 pick up the red block among other blocks
+162 154 pick up the red block among others
+162 154 pick up the red block between other blocks
+162 154 pick up the red block between others
+162 154 pick up the red block between the another red block and the upper blue block
+162 154 pick up the red block between the another red block and the upper right blue block
+162 154 pick up the red block between the lower red block and the upper blue block
+162 154 pick up the red block between the upper blue block and the another red block
+162 154 pick up the red block between the upper blue block and the lower red block
+162 154 pick up the red block between the upper right blue block and the another red block
+162 154 pick up the right middle block
+162 154 pick up the upper red block
+178 226 pick up the block at the bottom
+178 226 pick up the bottom block
+178 226 pick up the bottom block which color is red
+178 226 pick up the bottom red block
+178 226 pick up the lower block which color is red
+178 226 pick up the lower red block
+178 226 pick up the red block at the bottom
+40 183 pick up the block at the lower left corner
+40 183 pick up the block on the lower left
+40 183 pick up the blue block at the lower left corner
+40 183 pick up the blue block on the left
+40 183 pick up the blue block on the lower left
+40 183 pick up the bottom block which color is blue
+40 183 pick up the bottom blue block
+40 183 pick up the left block which color is blue
+40 183 pick up the left blue block
+40 183 pick up the leftmost block
+40 183 pick up the leftmost block which color is blue
+40 183 pick up the leftmost blue block
+40 183 pick up the lower block which color is blue
+40 183 pick up the lower blue block
+40 183 pick up the lower left block
+40 183 pick up the lower left block which color is blue
+40 183 pick up the lower left blue block

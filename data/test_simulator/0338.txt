@@ -1,0 +1,18 @@
+42,120,pick up the block on the left which color is green,green,upper
+59,198,pick up the block on the left which color is green,green,lower
+115,185,pick up the lower block which color is blue,blue,left
+184,177,pick up the lower block which color is blue,blue,right
+116,186,pick up the blue block,blue,left
+184,177,pick up the blue block,blue,right
+42,119,pick up the block which color is green,green,upper
+60,199,pick up the block which color is green,green,lower
+115,185,pick up the lower blue block,blue,left
+183,177,pick up the lower blue block,blue,right
+43,119,pick up the left block which color is green,green,upper
+58,198,pick up the left block which color is green,green,lower
+42,119,pick up the left green block,green,upper
+60,198,pick up the left green block,green,lower
+116,186,pick up the block which color is blue,blue,left
+184,177,pick up the block which color is blue,blue,right
+42,119,pick up the green block,green,upper
+59,198,pick up the green block,green,lower

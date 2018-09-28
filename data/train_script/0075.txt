@@ -1,0 +1,54 @@
+157 85 pick up the top block which color is yellow
+157 85 pick up the top yellow block
+157 85 pick up the upper block which color is yellow
+157 85 pick up the upper yellow block
+157 85 pick up the yellow block
+157 85 pick up the yellow block at the top
+203 193 pick up the block at the lower right corner
+203 193 pick up the block on the lower right
+203 193 pick up the bottom block which color is red
+203 193 pick up the bottom red block
+203 193 pick up the lower block which color is red
+203 193 pick up the lower red block
+203 193 pick up the lower right block
+203 193 pick up the lower right block which color is red
+203 193 pick up the lower right red block
+203 193 pick up the red block
+203 193 pick up the red block at the lower right corner
+203 193 pick up the red block on the lower right
+203 193 pick up the red block on the right
+203 193 pick up the right block which color is red
+203 193 pick up the right red block
+203 193 pick up the rightmost block
+203 193 pick up the rightmost block which color is red
+203 193 pick up the rightmost red block
+37 86 pick up the left block which color is purple
+37 86 pick up the left purple block
+37 86 pick up the purple block
+37 86 pick up the purple block on the left
+42 140 pick up the block between the blue block and the purple block
+42 140 pick up the block between the purple block and the blue block
+42 140 pick up the green block
+42 140 pick up the green block between the blue block and the purple block
+42 140 pick up the green block between the purple block and the blue block
+42 140 pick up the green block on the left
+42 140 pick up the left block which color is green
+42 140 pick up the left green block
+42 140 pick up the left middle block
+42 140 pick up the middle left block
+49 203 pick up the block at the lower left corner
+49 203 pick up the block on the lower left
+49 203 pick up the blue block
+49 203 pick up the blue block at the bottom
+49 203 pick up the blue block at the lower left corner
+49 203 pick up the blue block on the left
+49 203 pick up the blue block on the lower left
+49 203 pick up the bottom block which color is blue
+49 203 pick up the bottom blue block
+49 203 pick up the left block which color is blue
+49 203 pick up the left blue block
+49 203 pick up the lower block which color is blue
+49 203 pick up the lower blue block
+49 203 pick up the lower left block
+49 203 pick up the lower left block which color is blue
+49 203 pick up the lower left blue block

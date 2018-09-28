@@ -1,0 +1,47 @@
+152 187 pick up the bottom block which color is purple
+152 187 pick up the bottom purple block
+152 187 pick up the lower block which color is purple
+152 187 pick up the lower purple block
+152 187 pick up the purple block
+152 187 pick up the purple block at the bottom
+217 80 pick up the block at the top
+217 80 pick up the block at the top right
+217 80 pick up the block on the right
+217 80 pick up the block on the upper right
+217 80 pick up the right block
+217 80 pick up the right block which color is yellow
+217 80 pick up the right yellow block
+217 80 pick up the rightmost block
+217 80 pick up the rightmost block which color is yellow
+217 80 pick up the rightmost yellow block
+217 80 pick up the top block
+217 80 pick up the top block which color is yellow
+217 80 pick up the top right block
+217 80 pick up the top right block which color is yellow
+217 80 pick up the top right yellow block
+217 80 pick up the top yellow block
+217 80 pick up the upper block
+217 80 pick up the upper block which color is yellow
+217 80 pick up the upper right block
+217 80 pick up the upper right block which color is yellow
+217 80 pick up the upper right yellow block
+217 80 pick up the upper yellow block
+217 80 pick up the yellow block
+217 80 pick up the yellow block at the top
+217 80 pick up the yellow block at the top right
+217 80 pick up the yellow block on the right
+217 80 pick up the yellow block on the upper right
+92 177 pick up the block on the left
+92 177 pick up the block on the lower left
+92 177 pick up the blue block
+92 177 pick up the blue block on the left
+92 177 pick up the blue block on the lower left
+92 177 pick up the left block
+92 177 pick up the left block which color is blue
+92 177 pick up the left blue block
+92 177 pick up the leftmost block
+92 177 pick up the leftmost block which color is blue
+92 177 pick up the leftmost blue block
+92 177 pick up the lower left block
+92 177 pick up the lower left block which color is blue
+92 177 pick up the lower left blue block

@@ -1,0 +1,48 @@
+128 140 pick up the block between two yellow blocks
+128 140 pick up the block between yellow blocks
+128 140 pick up the block near the center
+128 140 pick up the green block between two yellow blocks
+128 140 pick up the green block between yellow blocks
+128 140 pick up the green block near the center
+128 140 pick up the lower right green block
+128 140 pick up the right green block
+128 140 pick up the rightmost green block
+17 88 pick up the green block on the left
+17 88 pick up the left block which color is green
+17 88 pick up the left green block
+17 88 pick up the leftmost block
+17 88 pick up the leftmost block which color is green
+17 88 pick up the leftmost green block
+17 88 pick up the upper green block
+17 88 pick up the upper left green block
+178 201 pick up the block at the bottom
+178 201 pick up the block at the bottom right
+178 201 pick up the block at the lower right corner
+178 201 pick up the block on the rightmost bottom
+178 201 pick up the bottom block
+178 201 pick up the bottom block which color is yellow
+178 201 pick up the bottom right block
+178 201 pick up the bottom right block which color is yellow
+178 201 pick up the bottom right yellow block
+178 201 pick up the bottom yellow block
+178 201 pick up the lower block which color is yellow
+178 201 pick up the lower right block which color is yellow
+178 201 pick up the lower right yellow block
+178 201 pick up the lower yellow block
+178 201 pick up the right block which color is yellow
+178 201 pick up the right yellow block
+178 201 pick up the rightmost block
+178 201 pick up the rightmost block which color is yellow
+178 201 pick up the rightmost yellow block
+178 201 pick up the yellow block at the bottom
+178 201 pick up the yellow block at the bottom right
+178 201 pick up the yellow block at the lower right corner
+178 201 pick up the yellow block on the lower right
+178 201 pick up the yellow block on the right
+178 201 pick up the yellow block on the rightmost bottom
+87 76 pick up the top block which color is yellow
+87 76 pick up the top yellow block
+87 76 pick up the upper block which color is yellow
+87 76 pick up the upper left yellow block
+87 76 pick up the upper yellow block
+87 76 pick up the yellow block at the top

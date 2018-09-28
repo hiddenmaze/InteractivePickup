@@ -1,0 +1,47 @@
+154 153 pick up the block in the middle which color is red
+154 153 pick up the middle block which color is red
+154 153 pick up the middle red block
+154 153 pick up the red block
+154 153 pick up the red block in the middle
+196 101 pick up the right block which color is yellow
+196 101 pick up the right yellow block
+196 101 pick up the yellow block
+196 101 pick up the yellow block on the right
+214 184 pick up the block at the bottom right
+214 184 pick up the block at the lower right corner
+214 184 pick up the block on the rightmost bottom
+214 184 pick up the bottom block which color is purple
+214 184 pick up the bottom purple block
+214 184 pick up the bottom right block which color is purple
+214 184 pick up the bottom right purple block
+214 184 pick up the lower block which color is purple
+214 184 pick up the lower purple block
+214 184 pick up the lower right block which color is purple
+214 184 pick up the lower right purple block
+214 184 pick up the purple block
+214 184 pick up the purple block at the bottom
+214 184 pick up the purple block at the bottom right
+214 184 pick up the purple block at the lower right corner
+214 184 pick up the purple block on the lower right
+214 184 pick up the purple block on the right
+214 184 pick up the purple block on the rightmost bottom
+214 184 pick up the right block which color is purple
+214 184 pick up the right purple block
+31 125 pick up the green block on the left
+31 125 pick up the left green block
+31 125 pick up the leftmost block which color is green
+31 125 pick up the leftmost green block
+65 59 pick up the block at the top
+65 59 pick up the blue block
+65 59 pick up the blue block at the top
+65 59 pick up the blue block at the upper left corner
+65 59 pick up the blue block on the upper left
+65 59 pick up the top block
+65 59 pick up the top block which color is blue
+65 59 pick up the top blue block
+65 59 pick up the upper block which color is blue
+65 59 pick up the upper blue block
+65 59 pick up the upper left block which color is blue
+65 59 pick up the upper left blue block
+86 147 pick up the green block
+86 147 pick up the right green block

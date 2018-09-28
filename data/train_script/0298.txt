@@ -1,0 +1,21 @@
+166 173 pick up the bottom block
+166 173 pick up the bottom block which color is purple
+166 173 pick up the bottom purple block
+166 173 pick up the lower block which color is purple
+166 173 pick up the lower purple block
+166 173 pick up the lower right purple block
+166 173 pick up the purple block at the bottom
+182 120 pick up the right block which color is yellow
+182 120 pick up the right yellow block
+182 120 pick up the yellow block on the right
+69 84 pick up the left block which color is purple
+69 84 pick up the left purple block
+69 84 pick up the purple block at the top
+69 84 pick up the purple block on the left
+69 84 pick up the top block which color is purple
+69 84 pick up the top purple block
+69 84 pick up the upper block which color is purple
+69 84 pick up the upper left purple block
+69 84 pick up the upper purple block
+90 140 pick up the left yellow block
+90 140 pick up the yellow block on the left

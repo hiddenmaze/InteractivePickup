@@ -1,0 +1,6 @@
+41,93,pick up the block on the left,yellow,upper
+61,195,pick up the block on the left,purple,lower
+62,195,pick up the lower block,purple,left
+180,171,pick up the lower block,red,right
+41,93,pick up the left block,yellow,upper
+61,195,pick up the left block,purple,lower

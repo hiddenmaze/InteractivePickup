@@ -1,0 +1,59 @@
+114 197 pick up the blue block
+114 197 pick up the bottom block which color is blue
+114 197 pick up the bottom blue block
+114 197 pick up the lower blue block
+114 197 pick up the lower center block
+114 197 pick up the lower middle block
+176 99 pick up the right middle green block
+176 99 pick up the upper green block
+197 199 pick up the block at the lower right corner
+197 199 pick up the bottom block which color is green
+197 199 pick up the bottom green block
+197 199 pick up the green block at the lower right corner
+197 199 pick up the green block on the lower right
+197 199 pick up the lower block which color is green
+197 199 pick up the lower green block
+197 199 pick up the lower right block which color is green
+197 199 pick up the lower right green block
+208 35 pick up the block at the top
+208 35 pick up the block at the upper right corner
+208 35 pick up the top block
+208 35 pick up the top block which color is yellow
+208 35 pick up the top yellow block
+208 35 pick up the upper block which color is yellow
+208 35 pick up the upper right block which color is yellow
+208 35 pick up the upper right yellow block
+208 35 pick up the upper yellow block
+208 35 pick up the yellow block
+208 35 pick up the yellow block at the top
+208 35 pick up the yellow block at the upper right corner
+208 35 pick up the yellow block on the upper right
+215 139 pick up the red block
+215 139 pick up the red block on the right
+215 139 pick up the right block which color is red
+215 139 pick up the right middle red block
+215 139 pick up the right red block
+40 222 pick up the block at the lower left corner
+40 222 pick up the block on the leftmost bottom
+40 222 pick up the block on the lower left
+40 222 pick up the bottom block which color is purple
+40 222 pick up the bottom left block which color is purple
+40 222 pick up the bottom left purple block
+40 222 pick up the bottom purple block
+40 222 pick up the left block which color is purple
+40 222 pick up the left purple block
+40 222 pick up the leftmost block
+40 222 pick up the leftmost block which color is purple
+40 222 pick up the leftmost purple block
+40 222 pick up the lower block which color is purple
+40 222 pick up the lower left block
+40 222 pick up the lower left block which color is purple
+40 222 pick up the lower left purple block
+40 222 pick up the lower purple block
+40 222 pick up the purple block
+40 222 pick up the purple block at the bottom
+40 222 pick up the purple block at the bottom left
+40 222 pick up the purple block at the lower left corner
+40 222 pick up the purple block on the left
+40 222 pick up the purple block on the leftmost bottom
+40 222 pick up the purple block on the lower left

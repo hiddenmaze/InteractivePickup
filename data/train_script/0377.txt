@@ -1,0 +1,10 @@
+105 48 pick up the block at the top
+105 48 pick up the top block
+105 48 pick up the top green block
+105 48 pick up the upper block
+105 48 pick up the upper green block
+30 187 pick up the bottom yellow block
+30 187 pick up the lower yellow block
+46 141 pick up the upper yellow block
+78 171 pick up the bottom green block
+78 171 pick up the lower green block
